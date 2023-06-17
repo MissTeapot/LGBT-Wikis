@@ -1,0 +1,1 @@
+# See [Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia.md)
