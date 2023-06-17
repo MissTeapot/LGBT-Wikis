@@ -1,0 +1,26 @@
+---
+revision_id: 5ed04909-fb0c-11e9-bba4-0e459d452a48
+revision_date: 1572436616
+---
+
+#I'm writing an asexual character. What should I consider?
+
+[*Back to FAQ index.*](https://www.reddit.com/r/asexuality/wiki/faq)
+
+---
+
+Asexuality is a lot less mystical than it might seem to an outsider: we're really just ordinary people that aren't attracted to anyone. Imagine if you lived in a world where there were only people you weren't sexually attracted to (e.g. if there was only your own gender if you're heterosexual). There's nothing about someone's personality or worldview that is determined by being asexual. Also, how someone responds to the idea of sex or kissing, cuddling, etc., or how they behave towards romance and friendship, will also depend on the person.
+
+That said, being asexual can have implications for many aspects of a person's life. Like other sexual minorities, asexuals face problems with being understood (even among the LGBT+ community) and with trying to work out how they fit in a world that doesn't vindicate their orientation in any way. Many asexuals go through a period of feeling like they must be broken, or are even told so, sometimes by medical professionals. In addition, they may find themselves unable to contribute to a conversation, connect with those around them, or enjoy aspects of media and culture, etc., which can create a feeling of being irreconcilably separated from others. It doesn't help that our culture often promotes the idea that only people who have sex can – for one reason or another – be happy in life.
+
+&gt; Coming to identify as asexual requires that individuals reject a widely-held cultural ideology of sexuality as biologically based and ubiquitous. ... [Asexuals] draw attention to an oft overlooked social assumption- that all humans possess sexual desire. [1]
+
+There are also some more insidious factors at play. A 2012 study published in *Group Processes &amp; Intergroup Relations* reported that asexuals are evaluated more negatively in terms of prejudice, dehumanisation and discrimination than other sexual minorities, such as gay men, lesbians and bisexuals: both homosexual and heterosexual people thought of asexuals as not only cold, but also animalistic and unrestrained. As is common among LGBT+ people, asexuals are at a heightened risk of mental health issues, in particular depression and anxiety disorders. They can also struggle to form healthy intimate relationships, which can impact their well-being directly, but also later in life many asexuals see their friends slip away as they prioritise romantic relationships over friendship. According to a 2016 survey, 50% of asexual people have "seriously considered suicide" and 14% have attempted suicide.
+
+The struggles that come with being asexual are compounded by the fact they cannot always rely on having a supportive community they can turn to. Similar to the hate that bisexual and trans people sometimes experience from the LGBT+ community, asexual people are sometimes victims of ostracism from the very groups that are supposed to protect them. Many asexuals avoid LGBT+ spaces – with fear being cited as the most common reason – and most asexuals have no access to offline communities dedicated to asexuality. This makes the role of supportive friends and family is all the more important, because there is a good chance an asexual has no safety-net.
+
+All of these things can understandably have an effect on a person's view of the world and of themselves, and well as forcing them – to varying degrees – to become a certain way in order to cope. Ultimately, one of the most important things that can be given to an asexual is the feeling of normality. Asexuality is rare, at 1% of the population, and even when it's around it's invisible, so sometimes it can feel like no one in the world understands you; but at the end of the day, each and every person is valid, important, and good enough – regardless of their sexuality.
+
+##References
+
+[1]: Scherrer, Kristin S. (October 2008). [*Coming to an Asexual Identity: Negotiating Identity, Negotiating Desire*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2893352/). Sexualities. **11** (5): 621–641. doi:10.1177/1363460708094269.
