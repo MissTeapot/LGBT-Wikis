@@ -31,4 +31,4 @@ We may have made a mistake. Please [message the moderators](http://www.reddit.co
 
 
 
-[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/whywasibanned) | [Index](w/asktransgender/index) | [Rules](w/asktransgender/rules) | [FAQ](w/asktransgender/faq) | [Glossary](w/asktransgender/glossary) | [Links](w/asktransgender/linked) | [Contribute](w/asktransgender/contribute) | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender.md)
+[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/whywasibanned) | [index](w/asktransgender/index) | [rules](w/asktransgender/rules) | [faq](w/asktransgender/faq) | [glossary](w/asktransgender/glossary) | [links](w/asktransgender/linked) | [contribute](w/asktransgender/contribute) | [moderators](http://www.reddit.com/message/compose?to=%2fr%2fasktransgender.md)

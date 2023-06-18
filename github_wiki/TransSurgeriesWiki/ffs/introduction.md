@@ -1,15 +1,15 @@
 **FFS Introduction**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 Surgeons by country
 
-* [Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/ffs/australia.md)
-* [Europe](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/ffs/europe.md)
-* [USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/ffs/usa.md)
-* [Thailand](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/ffs/thailand.md)
-* [Other](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/ffs/other.md)
+* [Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/australia.md)
+* [Europe](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/europe.md)
+* [USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/usa.md)
+* [Thailand](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/thailand.md)
+* [Other](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/other.md)
 
 *****
 Books
@@ -479,4 +479,4 @@ Surgeons
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

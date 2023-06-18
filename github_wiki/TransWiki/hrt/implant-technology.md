@@ -1,15 +1,15 @@
 **Hormone Implants Technology**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 
 *****
 
 Related wiki pages
 
-* [Implants](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implants.md)
-* [Tachyphylaxis](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/tachyphylaxis.md)
-* [Dependance](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/dependance.md)
-* [Psychological Effects](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/psychological-effects.md)
+* [Implants](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implants.md)
+* [Tachyphylaxis](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/tachyphylaxis.md)
+* [Dependance](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/dependance.md)
+* [Psychological Effects](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/psychological-effects.md)
 
 
 
@@ -661,4 +661,4 @@ It's not clear how relevant these are, but there's some interesting discussions 
 * 1958 - US2895875A [Subcutaneous hormone pellets](https://patents.google.com/patent/US2895875A/) by Klette Hermann
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

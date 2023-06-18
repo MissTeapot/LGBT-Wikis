@@ -1,24 +1,24 @@
 **SRS in South USA**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 SRS in other regions of the USA
 
-* [North East](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa-north-east.md)
-* [Midwest](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa-midwest.md)
-* [South](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa-south.md)
-* [West](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa-west.md)
+* [North East](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md)
+* [Midwest](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md)
+* [South](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md)
+* [West](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md)
 
 SRS in other regions
 
-* [Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/australia.md)
-* [Canada](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/canada.md)
-* [Europe](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/europe.md)
-* [South America](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/south-america.md)
-* [Thailand](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/thailand.md)
-* [USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa.md)
-* [Other](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/other.md)
+* [Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/australia.md)
+* [Canada](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/canada.md)
+* [Europe](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/europe.md)
+* [South America](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/south-america.md)
+* [Thailand](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/thailand.md)
+* [USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa.md)
+* [Other](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/other.md)
 
 
 
@@ -134,7 +134,7 @@ Other
 *****
 # Florida
 
-Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/index#wiki_malpractice_insurance_in_the_usa.md) to see what this means.
+Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index#wiki_malpractice_insurance_in_the_usa.md) to see what this means.
 
 ## Ahmed Abdullah
 
@@ -473,7 +473,7 @@ Surgeons sites
 * https://www.vitals.com/doctors/Dr_Christopher_Salgado.html
 * https://www.youtube.com/channel/UCyAe7LCSyCVSJxxEgwCkiaw
 
-Malpractice Insurance - See the [Malpractice Insurance in the USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/index#wiki_malpractice_insurance_in_the_usa.md) for what this means
+Malpractice Insurance - See the [Malpractice Insurance in the USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index#wiki_malpractice_insurance_in_the_usa.md) for what this means
 
 * https://mqa-internet.doh.state.fl.us/MQASearchServices/HealthCareProviders/Details?LicInd=89179&amp;ProCde=1501 - *"I have elected not to carry medical malpractice insurance however, I agree to satisfy any adverse judgments up to the minimum amounts pursuant to s. 458.320(5) (g)1, F. S. I understand that I must either post notice in a sign prominently displayed in my reception area or provide a written statement to any person to whom medical services are being provided that I have decided not to carry medical malpractice insurance. I understand that such a sign or notice must contain the wording specified in s. 458.320(5) (g), F.S."*
 
@@ -2249,4 +2249,4 @@ YouTube
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

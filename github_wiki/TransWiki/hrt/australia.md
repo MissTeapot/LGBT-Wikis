@@ -1,6 +1,6 @@
 **HRT in Australia**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 This is mainly about MTF, although the the doctors and psych's medical professionals may be the same. I don't know anything about FTM, but I'm willing to add it if someone can help.
@@ -8,14 +8,14 @@ This is mainly about MTF, although the the doctors and psych's medical professio
 *****
 # Doctors By State
 
-* [ACT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/act.md)
-* [New South Wales](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/nsw.md)
-* [Queensland](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/qld.md)
-* [South Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/sa.md)
-* [Tasmania](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/tas.md)
-* [Victoria](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/vic.md)
-* [Western Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/wa.md)
-* [Northern Territory](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/nt.md)
+* [ACT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/act.md)
+* [New South Wales](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/nsw.md)
+* [Queensland](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/qld.md)
+* [South Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/sa.md)
+* [Tasmania](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/tas.md)
+* [Victoria](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/vic.md)
+* [Western Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/wa.md)
+* [Northern Territory](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/nt.md)
 
 
 ## Australian Guidelines
@@ -151,15 +151,15 @@ reddit
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&amp;usp=sharing) of HRT doctors in Australia, 
-* Wiki entry [HRT Introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt.md)
-* Wiki entry on [Implants](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implants.md)
-* Wiki entry on [Compounding Pharmacies](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/compounding-pharmacies/australia.md) - implants, injections, topical anesthetics, etc
+* Wiki entry [HRT Introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt.md)
+* Wiki entry on [Implants](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implants.md)
+* Wiki entry on [Compounding Pharmacies](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/compounding-pharmacies/australia.md) - implants, injections, topical anesthetics, etc
 * Australian trans sub /r/transgenderau/
 * /r/transgenderau post [Essential guides and state specific info](https://www.reddit.com/r/transgenderau/comments/daad16/) by MissTortoise in 2019
-* This wiki, page [Australian Psychs and Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/psychs/australia.md).
+* This wiki, page [Australian Psychs and Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/psychs/australia.md).
 * The Facebook group [NovaTrue](https://www.facebook.com/groups/NovaTrue/permalink/2130966700533462/) is very active on HRT in Sydney.
 * https://www.ygender.org.au/tgd-healthcare-reviews - list of doctors and reviews
-* Retired Sydney endo [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/jon-hayes.md) - there's talk on the NovaTrue Facebook group of him coming back in 2020.
+* Retired Sydney endo [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/jon-hayes.md) - there's talk on the NovaTrue Facebook group of him coming back in 2020.
 * https://transitioningdownunder.com/post/87371876421/medical-practitioners - list of doctors and psych's in Australia with some reviews.
 * [SIMPLIFIED Gender Diverse Healthcare in Australia](https://docs.google.com/document/d/1-hn_YApOScn4ji3jEM0FTizGCOW8S6iyvNR4DsxzlL4/edit) - see reddit post [here](https://www.reddit.com/r/transgenderau/comments/whaiig/new_simplified_healthcare_master_doc/).
 
@@ -211,7 +211,7 @@ Personally I'd try to avoid doctors who do not prescribe implants even if I didn
 *****
 # Estrogen Injections
 
-Estrogen injections are not common in Australia, but can be sourced from some [Compounding Pharmacies in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/compounding-pharmacies/australia) (with a doctors prescription.md).
+Estrogen injections are not common in Australia, but can be sourced from some [Compounding Pharmacies in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/compounding-pharmacies/australia) (with a doctors prescription.md).
 
 Syringes and needles are available without prescription in Australia. You should be able to get them from a pharmacy, but there's also online medical suppliers where you can order them. I can't speak from personal experience, but you could look at
 
@@ -274,11 +274,11 @@ You may also come across the synthetic progesterone [Medroxyprogesterone Acetate
 *****
 # Informed Consent
 
-Some doctors now now follow the [informed consent](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/index#wiki_informed_consent.md) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
+Some doctors now now follow the [informed consent](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index#wiki_informed_consent.md) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
 
 You may be asked to sign one or more multi-page documents informing you of the risks of what you are doing.
 
-If you need to see a psychiatrist for a HRT or surgery letter, see the [Australian Psychs &amp; Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/psychs/australia.md) page.
+If you need to see a psychiatrist for a HRT or surgery letter, see the [Australian Psychs &amp; Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/psychs/australia.md) page.
 
 ### Informed Consent Map
 
@@ -311,7 +311,7 @@ Private Blood Testing
 *****
 # DIY
 
-A few people buy their HRT online without using a doctor. See the [main HRT page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt#wiki_diy.md) for more.
+A few people buy their HRT online without using a doctor. See the [main HRT page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt#wiki_diy.md) for more.
 
 reddit
 
@@ -362,4 +362,4 @@ reddit
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

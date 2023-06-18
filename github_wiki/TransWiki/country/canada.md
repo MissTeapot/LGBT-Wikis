@@ -1,15 +1,15 @@
 **Canada**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 This page is to collect Canadian trans resources.
 
 Canadian reddit wiki surgery resources
 
-* [SRS/GCS](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/canada.md)
-* [Facial Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/ffs/other#wiki_canada.md)
-* [Voice Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/vfs/other#wiki_canada.md)
+* [SRS/GCS](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/canada.md)
+* [Facial Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/other#wiki_canada.md)
+* [Voice Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/vfs/other#wiki_canada.md)
 
 
 
@@ -114,4 +114,4 @@ Other
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

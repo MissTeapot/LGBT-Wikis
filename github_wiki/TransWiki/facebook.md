@@ -1,6 +1,6 @@
 **Introduction**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 # Facebook
@@ -54,4 +54,4 @@ Facebook Group | Members
 [Tijuana Bellabodiez Botched &amp; Plastic Surgery Research in Mexico ONLY](https://www.facebook.com/groups/1906818416027694) - *"This group is to make others aware about Bella Bodiez and other Tijuana ,Mx doctors unsanitary practices including infections , botched and deaths due to cosmetic surgery 🌸🌸🌸Women Only🌼🌼🌼 Please share your experience or research 😃😃😃"*
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

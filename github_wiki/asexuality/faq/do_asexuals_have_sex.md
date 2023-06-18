@@ -14,7 +14,7 @@ At the same time, many asexual people don't have or seek sex, due to being sex-n
 
 * [Why do asexual people have / enjoy sex?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/why_do_asexuals_have_sex.md)
 * [How can you like sex and be asexual at the same time?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/how_can_aces_like_sex.md)
-* [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2C_favourability.2C_and_aversion.md)
+* [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2c_favourability.2c_and_aversion.md)
 * [*The a-spectra: Sex-positivity and negativity*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-positivity_and_negativity.md).
 
 ### References

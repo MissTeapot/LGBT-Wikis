@@ -96,7 +96,7 @@ Below you can find a listing of all items currently on the FAQ.
 
 * [How can you have a relationship without sex?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/how_can_you_have_a_relationship_without_sex.md)
 
-* [What's the difference between a QPR and a romantic (non-sexual) relationship?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/whats_the_difference_between_a_QPR_and_a_relationship.md)
+* [What's the difference between a QPR and a romantic (non-sexual) relationship?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/whats_the_difference_between_a_qpr_and_a_relationship.md)
 
 * [Should I tell my partner that I'm asexual?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/should_i_tell_my_partner.md)
 

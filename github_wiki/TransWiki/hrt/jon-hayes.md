@@ -1,6 +1,6 @@
 **Dr Jonathan Hayes**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/wiki_index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/wiki_index.md)**
 *****
 
 I created this page after the resignation of the Sydney endocrinologist ***Dr Jonathan (Jon) Hayes*** in 2019. Dr Jonathan Hayes was a world leader in trans HRT and his resignation has affected me quite badly. I never want to be in this situation again.
@@ -60,4 +60,4 @@ Please note that you won't hear anything until at least the week starting Monday
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/wiki_index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/wiki_index.md)**

@@ -1,6 +1,6 @@
 **HRT Introduction**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 # Resources on HRT
@@ -14,7 +14,7 @@ There's a lot of discussion/argument about the proper HRT protocol, to the point
 * ~~r/MtFHRT - very advanced information on HRT~~ 
 * r/TransfemScience
 * r/DrWillPowers
-* r/TransDIY - HRT without a doctor, this sub has a good [wiki](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransDIY/index.md)
+* r/TransDIY - HRT without a doctor, this sub has a good [wiki](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transdiy/index.md)
 * r/estrogel - DIY compounding of topical HRT
 * r/TransDIY_Nonbinary
 * r/MTFHRT_MonoTherapy
@@ -248,7 +248,7 @@ A few people buy their HRT online without using a doctor. Even fewer compound th
 
 reddit
 
-* r/TransDIY - HRT without a doctor, this sub has a good [wiki](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransDIY/index.md)
+* r/TransDIY - HRT without a doctor, this sub has a good [wiki](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transdiy/index.md)
 * r/DIYHRT
 * r/estrogel - compounding of topical HRT
 * r diyftm - for trans men, banned for discussing sourcing of testosterone
@@ -474,7 +474,7 @@ https://en.wikipedia.org/wiki/Testosterone_(medication)
 *****
 # Australia
 
-In this Wiki [HRT in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia.md).
+In this Wiki [HRT in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia.md).
 
 The Australian transgender sub /r/transgenderau contains information on HRT in Australia
 
@@ -506,4 +506,4 @@ reddit
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

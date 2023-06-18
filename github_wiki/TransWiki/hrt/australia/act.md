@@ -1,25 +1,25 @@
 **HRT in the Australian Capital Territory (ACT)**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 HRT in other states of Australia
 
 * ACT
-* [NSW](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/nsw.md)
-* [QLD](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/qld.md)
-* [SA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/sa.md)
-* [TAS](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/tas.md)
-* [VIC](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/vic.md)
-* [WA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/wa.md)
-* [NT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/nt.md)
+* [NSW](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/nsw.md)
+* [QLD](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/qld.md)
+* [SA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/sa.md)
+* [TAS](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/tas.md)
+* [VIC](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/vic.md)
+* [WA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/wa.md)
+* [NT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/nt.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&amp;usp=sharing) of HRT doctors in Australia, 
-* Wiki entry [HRT Introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt.md)
-* [Telehealth](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia#wiki_telehealth.md) - Doctors who work on line prescribing across Australia
-* Wiki entry [Australian Psychiatrists &amp; Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/psychs/australia.md)
+* Wiki entry [HRT Introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt.md)
+* [Telehealth](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia#wiki_telehealth.md) - Doctors who work on line prescribing across Australia
+* Wiki entry [Australian Psychiatrists &amp; Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/psychs/australia.md)
 * Trans Health Australia [Medical Practitioners in NSW / ACT](http://www.transhealthaustralia.org/index.php/nsw-act/3-medical-practitioners-nsw-act)
 * /r/transgenderau [wiki for ACT &amp; NSW](https://www.reddit.com/r/transgenderau/wiki/resources-nsw)
 * https://genderrights.org.au/aga-event/friday-centre-12/ - *"Friday Centre. Peer navigation service that assists trans and gender diverse communities with information and referrals. "*
@@ -378,4 +378,4 @@ reddit
 
 &amp;nbsp;
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

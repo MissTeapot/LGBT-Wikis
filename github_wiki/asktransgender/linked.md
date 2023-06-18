@@ -45,4 +45,4 @@ Reddit is large place, home to a variety of topics, communities and interests. I
 
 # [*Did we miss anything?* Submit a subreddit here.](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender)
 
-[Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index) | [Rules](w/asktransgender/rules) | [FAQ](w/asktransgender/faq) | [Glossary](w/asktransgender/glossary) | [Links](w/asktransgender/linked) | [Contribute](w/asktransgender/contribute) | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender.md)
+[Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index) | [rules](w/asktransgender/rules) | [faq](w/asktransgender/faq) | [glossary](w/asktransgender/glossary) | [links](w/asktransgender/linked) | [contribute](w/asktransgender/contribute) | [moderators](http://www.reddit.com/message/compose?to=%2fr%2fasktransgender.md)

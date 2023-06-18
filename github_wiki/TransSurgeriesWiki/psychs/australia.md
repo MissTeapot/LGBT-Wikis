@@ -1,6 +1,6 @@
 **Australian Psychiatrists &amp; Therapists**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 If you're new to this I recommend reading though the links in this section.
@@ -61,7 +61,7 @@ Who are the people behind the anti-trans movement in Australia and New Zealand? 
 
 * Roberto D'Angelo, Sydney psychiatrist is a Fellow of the RANZCP and also very active with anti-trans groups both in Australia and abroard.
     * https://transsafety.network/posts/segm-uncovered
-    * wiki entry [below](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/psychs/australia#wiki_roberto_d.27angelo.md)
+    * wiki entry [below](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/psychs/australia#wiki_roberto_d.27angelo.md)
 
 
 ## Procare Group
@@ -2690,4 +2690,4 @@ https://www.ratemds.com/doctor-ratings/dr-emma-briggs-perth-wau-au - *"Emma Brig
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

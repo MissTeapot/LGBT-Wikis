@@ -1,24 +1,24 @@
 **SRS in West USA**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 SRS in other regions of the USA
 
-* [North East](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa-north-east.md)
-* [Midwest](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa-midwest.md)
-* [South](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa-south.md)
-* [West](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa-west.md)
+* [North East](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md)
+* [Midwest](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md)
+* [South](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md)
+* [West](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md)
 
 SRS in other regions
 
-* [Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/australia.md)
-* [Canada](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/canada.md)
-* [Europe](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/europe.md)
-* [South America](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/south-america.md)
-* [Thailand](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/thailand.md)
-* [USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa.md)
-* [Other](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/other.md)
+* [Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/australia.md)
+* [Canada](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/canada.md)
+* [Europe](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/europe.md)
+* [South America](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/south-america.md)
+* [Thailand](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/thailand.md)
+* [USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa.md)
+* [Other](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/other.md)
 
 
 
@@ -274,7 +274,7 @@ Surgeons sites
 
 https://www.mtfsurgery.net/surgeons/dr-heidi-wittenberg.htm - *Dr. Wittenberg offers Gender Reassignment Surgery with a number of possible variations. For example, a traditional Penile Inversion Vaginoplasty includes bilateral Orchiectomy, Penectomy with preservation of glans and shaft skin, and penile inversion often with a secondary scrotal graft. For non-binary individuals, Dr. Wittenberg can perform nullification with stand-alone Orchiectomy and/or Penectomy. Dr. Wittenberg can also preserve the penis, if desired, and perform Orchiectomy and Vaginoplasty using scrotal and groin or abdominal skin.*
 
-See also the entry on [Brownstein &amp; Crane](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa#wiki_brownstein_.26amp.3B_crane), where [Wittenberg used to work](https://www.mozaiccare.net/cv.md).
+See also the entry on [Brownstein &amp; Crane](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa#wiki_brownstein_.26amp.3b_crane), where [wittenberg used to work](https://www.mozaiccare.net/cv.md).
 
 **Photo links**
 
@@ -1150,7 +1150,7 @@ huffingtonpost
 
 Legal
 
-* There's a "Maurice Garcia, M.D." acting as a Defense counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is defending [Dr Kathy Rumer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/usa#wiki_kathy_lynn_rumer)). I don't know if this is the same doctor, however I'm not aware of any other SRS surgeons by this name and the Plaintiff's counsel is "Jess Ting, M.D." who is a well known SRS surgeon. For more on this see the wiki page discussing hair pre/post-op hair removal [here](https://www.reddit.com/r/TransWiki/wiki/hair-removal#wiki_a_surgeons_point_of_view.md).
+* There's a "Maurice Garcia, M.D." acting as a Defense counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is defending [Dr Kathy Rumer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa#wiki_kathy_lynn_rumer)). i don't know if this is the same doctor, however i'm not aware of any other srs surgeons by this name and the plaintiff's counsel is "jess ting, m.d." who is a well known srs surgeon. for more on this see the wiki page discussing hair pre/post-op hair removal [here](https://www.reddit.com/r/transwiki/wiki/hair-removal#wiki_a_surgeons_point_of_view.md).
 
 
 &amp;nbsp;
@@ -3098,4 +3098,4 @@ reddit
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

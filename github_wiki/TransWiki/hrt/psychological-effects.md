@@ -5,15 +5,15 @@ revision_date: 1643932185
 
 **Psychological Effects of High Estrogen Levels**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 Related wiki pages
 
-* [Implants](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implants.md)
-* [Tachyphylaxis](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/tachyphylaxis.md)
-* [Dependance](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/dependance.md)
-* [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implant-technology.md)
+* [Implants](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implants.md)
+* [Tachyphylaxis](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/tachyphylaxis.md)
+* [Dependance](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/dependance.md)
+* [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implant-technology.md)
 
 # Psychological Effects
 
@@ -22,7 +22,7 @@ I find high estrogen levels of interest from a psychological point of view
 * Depression is very common in the trans community and anything that helps safely alleviate that is valuable.
 * There's people working on high level estrogen for the physical benefits, but I'm not aware of anyone looking into the psychological side.
 * On of the benefits of implants is that its very easy to achieve high and stable estrogen blood levels.
-* When the Sydney endocrinologist [Dr Jon Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/jon-hayes.md) retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
+* When the Sydney endocrinologist [Dr Jon Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/jon-hayes.md) retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
 
 *****
 # Migraine
@@ -194,4 +194,4 @@ Papers
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

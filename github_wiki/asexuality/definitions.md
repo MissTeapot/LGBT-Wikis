@@ -249,11 +249,11 @@ Terms like those below also create the conditions for greater awareness, and con
 
 * **sexual attraction**: *n.* An urge to have sex with a specific person.
 
-* **sex-aversion**: *n.* Refers to a negative response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2C_favourability.2C_and_aversion.md).
+* **sex-aversion**: *n.* Refers to a negative response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2c_favourability.2c_and_aversion.md).
 
-* **sex-favourability**: *n.* Refers to a positive response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2C_favourability.2C_and_aversion.md).
+* **sex-favourability**: *n.* Refers to a positive response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2c_favourability.2c_and_aversion.md).
 
-* **sex-indifference**: *n.* Refers to an indifferent response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2C_favourability.2C_and_aversion.md).
+* **sex-indifference**: *n.* Refers to an indifferent response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2c_favourability.2c_and_aversion.md).
 
 * **sex-positivity**: *n.* Refers to an positive attitude towards other people having sex. See [*The a-spectra: Sex-positivity and negativity*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-positivity_and_negativity.md)
 
@@ -261,7 +261,7 @@ Terms like those below also create the conditions for greater awareness, and con
 
 * **sex-negativity**: *n.* Refers to an negative attitude towards other people having sex. See [*The a-spectra: Sex-positivity and negativity*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-positivity_and_negativity.md).
 
-* **sex-repulsion**: *n.* Refers to a negative response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2C_favourability.2C_and_aversion.md).
+* **sex-repulsion**: *n.* Refers to a negative response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2c_favourability.2c_and_aversion.md).
 
 * **split-attraction model**: *n.* Refers to a model of human relationships where sexual and romantic attraction are considered to be separate (but related) phenomena.
 

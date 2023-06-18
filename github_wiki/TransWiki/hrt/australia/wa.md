@@ -1,23 +1,23 @@
 **HRT in Western Australia (WA)**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 HRT in other states of Australia
 
-* [ACT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/act.md)
-* [NSW](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/nsw.md)
-* [QLD](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/qld.md)
-* [SA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/sa.md)
-* [TAS](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/tas.md)
-* [VIC](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/vic.md)
+* [ACT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/act.md)
+* [NSW](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/nsw.md)
+* [QLD](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/qld.md)
+* [SA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/sa.md)
+* [TAS](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/tas.md)
+* [VIC](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/vic.md)
 * WA
-* [NT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/nt.md)
+* [NT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/nt.md)
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&amp;usp=sharing) of HRT doctors in Australia
-* [Telehealth](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia#wiki_telehealth.md) - Doctors who work on line prescribing across Australia
-* Wiki entry for [Australian Psychiatrists &amp; Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/psychs/australia.md)
+* [Telehealth](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia#wiki_telehealth.md) - Doctors who work on line prescribing across Australia
+* Wiki entry for [Australian Psychiatrists &amp; Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/psychs/australia.md)
 * /r/transgenderau [wiki for Western Australia](https://www.reddit.com/r/transgenderau/wiki/resources-wa)
 * Trans Health Australia [Medical Practitioners in Western Australia](http://www.transhealthaustralia.org/index.php/western-australia/6-medical-practitioners-wa)
 * TransFolk of Western Australia - https://www.transfolkofwa.org
@@ -505,4 +505,4 @@ reddit
 * [Sir Charles Gairdner Hospital in Perth, WA was absolutely wonderful regarding me being trans](https://www.reddit.com/r/transgenderau/comments/hej1br/sir_charles_gairdner_hospital_in_perth_wa_was/) by Its_Sasha in 2020
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

@@ -1,6 +1,6 @@
 **Australia**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 There's far more in the wiki than the pages listed here, but its a start.
@@ -35,16 +35,16 @@ Other
 
 Wiki pages
 
-* [HRT Introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt.md)
-* [HRT in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia.md) lists doctor prescribing HRT and reviews
-* [Compounding Pharmacies](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/compounding-pharmacies/australia.md)
+* [HRT Introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt.md)
+* [HRT in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia.md) lists doctor prescribing HRT and reviews
+* [Compounding Pharmacies](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/compounding-pharmacies/australia.md)
 * [Australian Psychiatrists &amp; Therapists](https://www.reddit.com/r/TransSurgeriesWiki/wiki/psychs/australia)
 
 
 &amp;nbsp;
 # Hair removal
 
-* [Hair Removal](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hair-removal.md)
+* [Hair Removal](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hair-removal.md)
 
 
 
@@ -53,16 +53,16 @@ Wiki pages
 
 Wiki pages
 
-* [Introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/index.md)
-* [Facial Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/ffs/australia.md)
-* [Male to Female Genital Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/australia.md)
-* [Voice Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/vfs/australia.md)
+* [Introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index.md)
+* [Facial Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/australia.md)
+* [Male to Female Genital Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/australia.md)
+* [Voice Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/vfs/australia.md)
 
 Other popular destinations for surgery
 
-* [Thailand for genital surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/thailand.md)
-* [Facial Team](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/ffs/europe#wiki_facial_team.md) in Spain for FFS
-* [Yeson in Korea](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/vfs/korea#wiki_hyung-tae_kim_.28yeson.29.md) for Voice Feminization surgery
+* [Thailand for genital surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/thailand.md)
+* [Facial Team](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/europe#wiki_facial_team.md) in Spain for FFS
+* [Yeson in Korea](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/vfs/korea#wiki_hyung-tae_kim_.28yeson.29.md) for Voice Feminization surgery
 
 
 
@@ -332,4 +332,4 @@ Facebook
 
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

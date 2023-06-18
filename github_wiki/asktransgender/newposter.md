@@ -27,4 +27,4 @@ All of examples follow a pretty standard guideline. This is /r/AskTransgender, a
 
 This community extends back quite a ways. Finding those perfect search terms can be a nightmare. That's one of the reasons this Wiki is here.
 
-[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/genderedslurs) | [Index](w/asktransgender/index) | [Rules](w/asktransgender/rules) | [FAQ](w/asktransgender/faq) | [Glossary](w/asktransgender/glossary) | [Links](w/asktransgender/linked) | [Contribute](w/asktransgender/contribute) | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender.md)
+[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/genderedslurs) | [index](w/asktransgender/index) | [rules](w/asktransgender/rules) | [faq](w/asktransgender/faq) | [glossary](w/asktransgender/glossary) | [links](w/asktransgender/linked) | [contribute](w/asktransgender/contribute) | [moderators](http://www.reddit.com/message/compose?to=%2fr%2fasktransgender.md)

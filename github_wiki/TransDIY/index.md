@@ -38,7 +38,7 @@ These are good resources to get started learning about HRT and endocrinology.
 
 ## Resources to get a doctor
 
-[HRT in Sydney AU](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia/.md)
+[HRT in Sydney AU](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia/.md)
     
 [Getting HRT in Auckland New Zealand](https://reddit.com/r/AskMtFHRT/comments/f3mqh2/not_a_question_this_is_a_writeup_for_any_trans/)
 
@@ -58,7 +58,7 @@ These are good resources to get started learning about HRT and endocrinology.
 
 ## Online 
 
-[r/TransDIY list](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransDIY/pharmacies.md)
+[r/TransDIY list](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transdiy/pharmacies.md)
 
 ~~[hrt.cafe](https://hrt.cafe/)~~ [diyhrt.cafe](https://diyhrt.cafe/)
 

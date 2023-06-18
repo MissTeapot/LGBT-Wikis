@@ -1,6 +1,6 @@
 **Hormone Implants**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 This page is mostly focussed on MTF estrogen implants, but there is also some information about other uses and types of implants (sometimes called pellets).
@@ -8,17 +8,17 @@ This page is mostly focussed on MTF estrogen implants, but there is also some in
 
 Related wiki pages
 
-* [Tachyphylaxis](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/tachyphylaxis.md)
-* [Dependance](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/dependance.md)
-* [Psychological Effects](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/psychological-effects.md)
-* [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implant-technology.md)
+* [Tachyphylaxis](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/tachyphylaxis.md)
+* [Dependance](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/dependance.md)
+* [Psychological Effects](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/psychological-effects.md)
+* [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implant-technology.md)
 
 
 Resources on implants
 
 * Facebook group [HRT Implants/Pellets Info &amp; Support](https://www.facebook.com/groups/2462247927386054/)
 * Many important papers on implants are by [Professor John Studd](https://www.studd.co.uk/)
-* This wiki page on [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implant-technology.md)
+* This wiki page on [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implant-technology.md)
 
 reddit
 
@@ -186,7 +186,7 @@ There's a trademark on "THERAPEL PELLET THERAPY", which is very similar to Virde
 
 Before inserting the implant a local anesthetic of lidocaine is injected, otherwise it would no doubt be extremely painful. The "needle" of a trocar is *very* thick. With the local anesthetic the insertion of the implant is painless, however for some (me) the local anesthetic itself is extremely painful for a brief time as lidocaine is quite acidic.
 
-See the wiki entry on [lidocaine inejections](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/local_anesthetic#wiki_lidocaine_injections.md)
+See the wiki entry on [lidocaine inejections](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/local_anesthetic#wiki_lidocaine_injections.md)
 
 
 
@@ -194,7 +194,7 @@ See the wiki entry on [lidocaine inejections](https://github.com/MissTeapot/LGBT
 *****
 # Tachyphylaxis
 
-Doctors may warn you about tachyphylaxis when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). [Read more...](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/tachyphylaxis.md)
+Doctors may warn you about tachyphylaxis when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). [Read more...](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/tachyphylaxis.md)
 
 
 
@@ -203,7 +203,7 @@ Doctors may warn you about tachyphylaxis when using implants. Its essentially a 
 *****
 # Dependance
 
-An occasional argument by doctors against implants and higher levels of estrogen is that its addictive. [Read more...](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/dependance.md)
+An occasional argument by doctors against implants and higher levels of estrogen is that its addictive. [Read more...](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/dependance.md)
 
 *****
 # Low Estrogen Levels
@@ -225,9 +225,9 @@ I find high estrogen levels of interest from a psychological point of view
 * Depression is very common in the trans community and anything that helps safely alleviate that is valuable.
 * There's people working on high level estrogen for the physical benefits, but I'm not aware of anyone looking into the psychological side.
 * On of the benefits of implants is that its very easy to achieve high and stable estrogen blood levels.
-* When the Sydney endocrinologist [Dr Jon Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/jon-hayes.md) retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
+* When the Sydney endocrinologist [Dr Jon Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/jon-hayes.md) retired there were a small but significant number of trans women who were in serious psychological distress caused by the reduction in blood levels that then followed. These numbers and symptoms seem somewhat similar cis-women suffering PMDD.
 
-[Read more...](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/psychological-effects.md)
+[Read more...](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/psychological-effects.md)
 
 *****
 # Estrogen Implants
@@ -243,7 +243,7 @@ reddit
 *****
 # Testosterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/jon-hayes) has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher.md). These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
+Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/jon-hayes) has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher.md). These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
 
 Note that testosterone implants don't last as long as estrogen, so there's likely to be a shortfall in levels before the estrogen implant needs renewing.
 
@@ -273,7 +273,7 @@ Very bad experience using testopel - https://k-con.today/post/172598026877/whats
 *****
 # Progesterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/jon-hayes) has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point.md).
+Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/jon-hayes) has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point.md).
 
 reddit
 
@@ -355,7 +355,7 @@ Some doctors can be found by looking on the manufacturer's websites.
 
 ## Australia
 
-This is [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia.md).
+This is [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia.md).
 
 *****
 ## Brazil
@@ -792,12 +792,12 @@ reddit
 
 ## Australia
 
-There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implants#wiki_implant_technology.md).
+There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implants#wiki_implant_technology.md).
 
 * https://custommedicine.com.au/
 * https://www.stenlake.com.au/
 
-See [Compounding Pharmacies in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/compounding-pharmacies/australia.md) for more.
+See [Compounding Pharmacies in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/compounding-pharmacies/australia.md) for more.
 
 The 4.5mm implant size is a legacy of the international pharmaceutical company manufacturer (Organon Laboratories Limited) that stopped production in 2011. Stenlake produced compatible implants and the endo Dr Jonathan Hayes made a special smaller size for unknown reasons.
 
@@ -1228,4 +1228,4 @@ YouTube
 * [Pellet Therapy- Westcliff Compounding Pharmacy](https://www.youtube.com/watch?v=SNm3xgScRxQ) by Right on Kieu Productions in 2018 - this video show some of the steps in compounding pellets
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

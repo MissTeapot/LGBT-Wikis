@@ -1,13 +1,13 @@
 **HRT in the Northern Territory (NT)**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 See also
 
 * [Google Map](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%2217npJeZICXFH317r3T42Agxg79sbHRFs_%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22102350253060603230985%22%7D&amp;usp=sharing) of HRT doctors in Australia
-* [Telehealth](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/australia#wiki_telehealth.md) - Doctors who work on line prescribing across Australia
-* Wiki entry for [Australian Psychiatrists &amp; Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/psychs/australia.md)
+* [Telehealth](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/australia#wiki_telehealth.md) - Doctors who work on line prescribing across Australia
+* Wiki entry for [Australian Psychiatrists &amp; Therapists](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/psychs/australia.md)
 * Trans Health Australia [Medical Practitioners in the Northern Territory](http://www.transhealthaustralia.org/index.php/northern-territory/7-medical-practitioners-nt)
 * /r/transgenderau [wiki for Northern Territory](https://www.reddit.com/r/transgenderau/wiki/resources-nt)
 
@@ -37,4 +37,4 @@ Other
 * https://www.mja.com.au/journal/2014/200/10/champion-general-practice
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

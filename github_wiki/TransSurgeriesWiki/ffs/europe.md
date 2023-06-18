@@ -1,6 +1,6 @@
 **FFS in Europe**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 # Spain
 
@@ -1276,7 +1276,7 @@ realself
 *****
 ## Christopher Inglefield
 
-See the [SRS page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/europe#wiki_christopher_inglefield.md) for more details.
+See the [SRS page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/europe#wiki_christopher_inglefield.md) for more details.
 
 
 Surgeons sites
@@ -1428,4 +1428,4 @@ reddit
 * [thefacesurgeons.co.uk](https://www.reddit.com/r/transgenderUK/comments/kpjody/thefacesurgeonscouk/) by Mali_justme in 2021
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

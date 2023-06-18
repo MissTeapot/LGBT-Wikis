@@ -1,6 +1,6 @@
 **Introduction**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 **Currently being edited by u/Maybe-Maeve, feel free to contact for suggestions, corrections, or questions**
@@ -107,4 +107,4 @@ Also known as 'Urethral Lengthening', reconstructs and extends the urethra to pa
 Prosthetic testicles are placed within the scrotum. This is generally done during a second surgery as to avoid complications with the newly constructed scrotum.
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**

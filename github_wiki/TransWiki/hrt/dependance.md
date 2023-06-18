@@ -1,14 +1,14 @@
 **Dependance**
 
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
 *****
 
 Related wiki pages
 
-* [Implants](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implants.md)
-* [Tachyphylaxis](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/tachyphylaxis.md)
-* [Psychological Effects](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/psychological-effects.md)
-* [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implant-technology.md)
+* [Implants](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implants.md)
+* [Tachyphylaxis](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/tachyphylaxis.md)
+* [Psychological Effects](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/psychological-effects.md)
+* [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implant-technology.md)
 
 # Dependance
 
@@ -63,4 +63,4 @@ Possibly worse, she was given *[conjugated estrogen tablets](https://en.wikipedi
 * Bewley 2992 [Drug dependence with oestrogen replacement therapy](https://www.ncbi.nlm.nih.gov/pubmed/1346294) by Bewley and Bewley in 1992
 
 *****
-**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/index.md)**
+**[Wiki Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/index.md)**
