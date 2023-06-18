@@ -66,7 +66,7 @@ def fix_line(line: str) -> str:
     line_to_write = line
 
     # alt-text in hyperlink (e.g. r/estrogel)
-    alt_matches = re.findall(r"\(w\/.*?\s\".*?\"\)", line)
+    alt_matches = re.findall(r"\([\/]?w\/.*?\s\".*?\"\)", line)
     for a_m in alt_matches:
         if "#" in a_m:
             a_m_a, a_m_b = a_m.split("#")
@@ -77,7 +77,7 @@ def fix_line(line: str) -> str:
         line_to_write = line_to_write.replace(a_m, replacement)
 
     # no alt-text in hyperlink
-    matches = re.findall(r"\(w\/.*?\)", line)
+    matches = re.findall(r"\([\/]?w\/.*?\)", line)
     for m in matches:
         if "#" in m:
             m_a, m_b = m.split("#")
