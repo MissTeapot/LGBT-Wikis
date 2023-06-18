@@ -48,4 +48,4 @@ When using public urinals, you may be worried about your STP device standing out
 
 ### Packers that double as STP devices:
 
-* See [Packing](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_packing.md).
+* See [Packing](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_packing).

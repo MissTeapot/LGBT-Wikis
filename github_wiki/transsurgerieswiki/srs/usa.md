@@ -76,20 +76,20 @@ Using [this map](https://www.50states.com/city/regions.htm).
 *****
 # Surgeons by State
 
-* [Alabama](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_alabama.md)
+* [Alabama](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_alabama)
     * John Patrick Selph
     * Victor Keith Jiminez
     * Paul Zbell
-* [Alaska](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_alaska.md)
+* [Alaska](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_alaska)
     * *none*
-* [Arizona](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_arizona.md)
+* [Arizona](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_arizona)
     * Toby Meltzer
     * Ellie Zara Ley
     * M. Michael Hayyeri
     * Genaro Valladolid
-* [Arkansas](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_arkansas.md)
+* [Arkansas](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_arkansas)
     * *none*
-* [California](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_california.md)
+* [California](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_california)
     * Heidi Wittenberg
     * Adam Bonnington
     * Marci Bowers
@@ -123,7 +123,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Christi Butler
     * John Henry Youm Pang - moved from New York
     * John Ronald Brown
-* [Colorado](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_colorado.md)
+* [Colorado](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_colorado)
     *  Denver Health
         * Jennifer Susan Hyer
         * Rodrigo Donalisio da Silva
@@ -133,12 +133,12 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Ty Higuchi
     * Julian Simon Winocour
     * Stanley Biber
-* [Connecticut](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east#wiki_connecticut.md)
+* [Connecticut](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md#wiki_connecticut)
     * Stanton Honig
     * Arnold D. C. Rivera
-* [Delaware](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_delaware.md)
+* [Delaware](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_delaware)
     * *none*
-* [Florida](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_florida.md)
+* [Florida](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_florida)
     * Ahmed Abdullah
     * Daniel Paul Greenwald
     * Rian A. Maercks
@@ -154,79 +154,79 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Sara Danker
     * Josef Hadeed
     * Benny K. Tan
-* [Georgia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_georgia.md)
+* [Georgia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_georgia)
     * Jenelle E Foote
     * Fara Movagharnia
     * Chirag Dave
-* [Hawaii](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_hawaii.md)
+* [Hawaii](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_hawaii)
     * *unknown*
-* [Idaho](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_idaho.md)
+* [Idaho](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_idaho)
     * *none*
-* [Illinois](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_illinois.md)
+* [Illinois](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_illinois)
     * Loren Schechter
     * Ervin Kocjancic
     * David Didomenico
-* [Indiana](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_indiana.md)
+* [Indiana](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_indiana)
     * Joshua David Roth
-* [Iowa](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_iowa.md)
+* [Iowa](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_iowa)
     * Amy Pearlman
-* [Kansas](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_kansas.md)
+* [Kansas](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_kansas)
     * Meredith Gray
     * Satish Ponnuru
     * Joshua Broghammer
-* [Kentucky](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_kentucky.md)
+* [Kentucky](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_kentucky)
     * Jonathan Witten
     * Stephen J. Monnig
-* [Louisiana](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_louisiana.md)
+* [Louisiana](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_louisiana)
     * *none*
-* [Maine](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east#wiki_maine.md)
+* [Maine](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md#wiki_maine)
     * *none*
-* [Maryland](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_maryland.md)
+* [Maryland](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_maryland)
     * Gabriel Del Corral
     * Arthur L. Burnett
     * Karen E Boyle
     * Devin O'Brien Coon
     * John Hopkins Hospital
-* [Massachusetts](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east#wiki_massachusetts.md)
+* [Massachusetts](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md#wiki_massachusetts)
     * Jaromir Slama
     * Robert D Oates
     * Oren Ganor
     * Jonathan Michael Winograd
     * Shailesh Agarwal
-* [Michigan](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_michigan.md)
+* [Michigan](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_michigan)
     * Marc Arnkoff
     * Alan Neal Wilson
     * William Kuzon
     * Jonathan Todd Bolthouse
     * Nabeel Ahmad Shakir
-* [Minnesota](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_minnesota.md)
+* [Minnesota](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_minnesota)
     * Jorys Martinez-Jorges
     * Valerie Lemaine
     * Oscar Manrique
     * Vahe Fahradyan
     * Joseph J. Pariser
     * Benjamin Michael Marsh
-* [Mississippi](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_mississippi.md)
+* [Mississippi](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_mississippi)
     * Gordon M. Castleberry
-* [Missouri](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_missouri.md)
+* [Missouri](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_missouri)
     * Gino Vricella
     * Alison K. Snyder-Warwick
-* [Montana](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_montana.md)
+* [Montana](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_montana)
     * Jeffrey Devin Redshaw
-* [Nebraska](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_nebraska.md)
+* [Nebraska](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_nebraska)
     * John Habib Bishay  
-* [Nevada](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_nevada.md)
+* [Nevada](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_nevada)
     * John Brosious
     * Casey McCraw
-* [New Hampshire](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east#wiki_new_hampshire.md)
+* [New Hampshire](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md#wiki_new_hampshire)
     * Rachel A. Moses
     * John Francis Nigriny
-* [New Jersey](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east#wiki_new_jersey.md)
+* [New Jersey](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md#wiki_new_jersey)
     * Jonathan Keith
     * William Bihrle
     * John Taylor
-* [New Mexico](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_new_mexico.md)
-* [New York](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east#wiki_new_york.md)
+* [New Mexico](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_new_mexico)
+* [New York](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md#wiki_new_york)
     * Bella Avanessian
     * Rachel Bluebond-Langner
     * Jess Ting
@@ -242,20 +242,20 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Bobby Najari
     * Courtney Cripps
     * Elan Horesh
-* [North Carolina](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_north_carolina.md)
+* [North Carolina](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_north_carolina)
     * Hope Sherie
     * Keelee MacPhee
     * Brad Figler
     * Charles Douglas Scales
-* [North Dakota](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_north_dakota.md)
-* [Ohio](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_ohio.md)
+* [North Dakota](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_north_dakota)
+* [Ohio](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_ohio)
     * Chris McClung
     * Cecile Audrey Ferrando
     * Carin V. Hopps
     * Shubham Gupta
-* [Oklahoma](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_oklahoma.md)
+* [Oklahoma](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_oklahoma)
     * *none*
-* [Oregon](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_oregon.md)
+* [Oregon](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_oregon)
     * Daniel Dugi
     * Sean J. Clark
     * Geolani Widjaja Dy
@@ -263,7 +263,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Jyoti Chouhan
     * Blair Peters
     * Nick Orem Esmonde
-* [Pennsylvania](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east#wiki_pennsylvania.md)
+* [Pennsylvania](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md#wiki_pennsylvania)
     * Christine McGinn
     * Kathryn Ashley Brandt
     * Kathy Lynn Rumer
@@ -274,12 +274,12 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Laura M. Douglass
     * Katherine Rose
     * Jude Opoku-Agyeman
-* [Rhode Island](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east#wiki_rhode_island.md)
+* [Rhode Island](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md#wiki_rhode_island)
     * Daniel Kwan
-* [South Carolina](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_south_carolina.md)
+* [South Carolina](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_south_carolina)
     * Nikki Mark Burish
-* [South Dakota](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_south_dakota.md)
-* [Tennessee](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_tennessee.md)
+* [South Dakota](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_south_dakota)
+* [Tennessee](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_tennessee)
     * Salam H. Alkassis
     * Peter Raphael
     * Alan Dulin
@@ -288,7 +288,7 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Stacy Ong
     * Alfred Antonetti
     * Tue A. Dinh
-* [Texas](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_texas.md)
+* [Texas](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_texas)
     * Ashley DeLeon
     * Peter Raphael
     * Alan Dulin
@@ -298,27 +298,27 @@ Using [this map](https://www.50states.com/city/regions.htm).
     * Alfred Antonetti
     * Tue A. Dinh
     * Dany Hanna
-* [Utah](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_utah.md)
+* [Utah](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_utah)
     * James M. Hotaling
     * Isak Aaron Goodwin
     * Nicholas Kim
     * Jeremy Myers 
-* [Vermont](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east#wiki_vermont.md)
+* [Vermont](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-north-east.md#wiki_vermont)
     * *none*
-* [Virginia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_virginia.md)
+* [Virginia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_virginia)
     * John Tyler RosemanJohn T Stranix
     * Sean T Corbett
-* [Washington](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west#wiki_washington.md)
+* [Washington](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-west.md#wiki_washington)
     * Geoffrey Stiller
     * Alvaro Lucioni
     * Alexander Joseuf Skokan
     * Russell E. Ettinger
-* [Washington D.C](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_washington_d.c..md)
+* [Washington D.C](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_washington_d.c.)
     * Praful Ramineni
     * Kelly Chiles
-* [West Virginia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south#wiki_west_virginia.md)
+* [West Virginia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-south.md#wiki_west_virginia)
     * Margaret Jeanne Vereb
-* [Wisconsin](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest#wiki_wisconsin.md)
+* [Wisconsin](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa-midwest.md#wiki_wisconsin)
     * Katherine M. Gast
     * Jay Ira Sandlow
     * Sean McAdams

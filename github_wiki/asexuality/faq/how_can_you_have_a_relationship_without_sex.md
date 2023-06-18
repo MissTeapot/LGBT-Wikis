@@ -14,4 +14,4 @@ Asexuals are the authority on their own experience, and it's hurtful (and misgui
 
 * [What's the difference between sexual and romantic attraction?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/whats_the_difference_between_sexual_and_romantic_attraction.md)
 * [Can I be asexual if I have romantic feelings?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/can_i_be_asexual_if_i_have_romantic_feelings.md)
-* [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md)
+* [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction)

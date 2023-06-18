@@ -60,14 +60,32 @@ def fix_links(root: str, output_path: str) -> None:
 def fix_line(line: str) -> str:
     """
     Update the line to have the correct link in it
-    NOTE: This only works for links formatted like so: `[text](link.url)`
-    Fortunately 99 % of all internal links are like this
+    NOTE: This only works for links formatted like so: `[text](link.url#header)` or with alt-text: `[text](link.url "description")`
+    as opposed to just having the link 'bare' like so: `go to the index: link.url/index` Fortunately 99.5 % of all internal links are like this
     """
     line_to_write = line
+
+    # alt-text in hyperlink (e.g. r/estrogel)
+    alt_matches = re.findall(r"\(w\/.*?\s\".*?\"\)", line)
+    for a_m in alt_matches:
+        if "#" in a_m:
+            a_m_a, a_m_b = a_m.split("#")
+            replacement = "(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/" + a_m_a.removeprefix("(w/").lower() + ".md#" + a_m_b
+        else:
+            a_m_a = a_m.split(" ")[0]
+            replacement = "(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/" + a_m_a.removeprefix("(w/").lower() + ".md " + " ".join(a_m.split(" ")[1:])
+        line_to_write = line_to_write.replace(a_m, replacement)
+
+    # no alt-text in hyperlink
     matches = re.findall(r"\(w\/.*?\)", line)
-    for match in matches:
-        replacement = "(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/" + match.removeprefix("(w/").removesuffix(")").lower() + ".md)"
-        line_to_write = line_to_write.replace(match, replacement)
+    for m in matches:
+        if "#" in m:
+            m_a, m_b = m.split("#")
+            replacement = "(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/" + m_a.removeprefix("(w/").lower() + ".md#" + m_b
+        else:
+            replacement = "(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/" + m.removeprefix("(w/").removesuffix(")").lower() + ".md)"
+
+        line_to_write = line_to_write.replace(m, replacement)
 
     return line_to_write
 

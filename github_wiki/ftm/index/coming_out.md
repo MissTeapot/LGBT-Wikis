@@ -192,7 +192,7 @@ See also:
 
 **Canada**: Your province may or may not have a human rights code protecting you against discrimination in employment. [Ontario](http://www.ohrc.on.ca/en/gender-identity-and-gender-expression-brochure), for example, includes gender identity and gender expression as protected grounds. Whether or not gender identity is specifically included in your province’s human rights code, you can still file a complaint if you feel you have been discriminated against. Get in touch with your local LGBT community for support on this process.
 
-**United Kingdom**: See [At School](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_at_school.md) for more detail. The bottom line is that you are protected by law in almost all instances against discrimination.
+**United Kingdom**: See [At School](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_at_school) for more detail. The bottom line is that you are protected by law in almost all instances against discrimination.
 
 **United States**: See [Lambda Legal: FAQ About Transgender Workplace Rights](http://www.lambdalegal.org/know-your-rights/transgender/trans-workplace-faq) and [Transgender Law Policy Institute](http://www.transgenderlaw.org/ndlaws/index.htm).
 

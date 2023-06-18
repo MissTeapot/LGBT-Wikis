@@ -6,7 +6,7 @@ Don’t feel that you can’t make a post just because the question is already h
 
 **Need info on transitioning in your country/province/state?** Go right to [Country-Specific Resources](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/country-specific_resources.md).
 
-**Want to help build this FAQ?** We especially need contributors for the sections of [Pumping](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_pumping.md), [Reproduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_reproduction.md), [Finance](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_finance.md), and [resources for specific countries and states](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/country-specific_resources.md). If you have information to add, please [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2Fftm) with your contribution. Another way you can help is to add your own story to our [How We Knew](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_how_we_knew.3a_stories.md) compilation. Thank you!
+**Want to help build this FAQ?** We especially need contributors for the sections of [Pumping](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_pumping), [Reproduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_reproduction), [Finance](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_finance), and [resources for specific countries and states](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/country-specific_resources.md). If you have information to add, please [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2Fftm) with your contribution. Another way you can help is to add your own story to our [How We Knew](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_how_we_knew.3A_stories) compilation. Thank you!
 
 *The authors of this FAQ are not medical professionals. This FAQ contains general information about medical conditions and treatments. Despite our best efforts, this information may not be up-to-date, complete, or non-misleading. This FAQ is not intended nor recommended as a substitute for medical advice, diagnosis, or treatment. Always seek the advice of your own physician or other qualified healthcare professional regarding any medical questions. Do not delay seeking medical advice, or disregard medical advice, because of the information in this FAQ.*
 
@@ -18,7 +18,7 @@ Don’t feel that you can’t make a post just because the question is already h
 
 *Trans is an umbrella term for individuals whose gender expression and/or gender identity differs from conventional expectations based on the physical sex they were assigned at birth. We use the term to include a wide range of identities including transgender, transsexual, transvestite, genderqueer, genderfluid, non-binary, agender, and two-spirit.
 
-For a guide to related terms, see [Glossary](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_glossary.md).
+For a guide to related terms, see [Glossary](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_glossary).
 
 ***
 ***I’m questioning my gender. How do I know if I’m trans?***
@@ -59,11 +59,11 @@ There are many non-permanent changes you can make to get a feel for presenting a
 
 * Consider presenting yourself as male online if you aren’t able to confide in somebody in real life.
 
-* Try binding under your clothing and see how it feels. See [Binding](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_binding.md).
+* Try binding under your clothing and see how it feels. See [Binding](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_binding).
 
 * Try getting a more masculine haircut. Be sure to specifically ask the hairdresser for a masculine style cut, and not a pixie cut.
 
-* See [Passing and Presentation](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_passing_and_presentation.md) for more on masculine presentation.
+* See [Passing and Presentation](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_passing_and_presentation) for more on masculine presentation.
 
 ## How We Knew: Stories
 ***
@@ -112,10 +112,10 @@ I hope this is able to help someone out there, and if anyone has anything to add
 
 # Coming Out ([link](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out.md))
 ***
-&gt; ## [To Family](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out#wiki_to_family.md)
-&gt; ## [To Significat Other](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out#wiki_to_significant_other.md)
-&gt; ## [At School](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out#wiki_at_school.md)
-&gt; ## [At Work](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out#wiki_at_work.md)
+&gt; ## [To Family](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out.md#wiki_to_family)
+&gt; ## [To Significat Other](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out.md#wiki_to_significant_other)
+&gt; ## [At School](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out.md#wiki_at_school)
+&gt; ## [At Work](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out.md#wiki_at_work)
 
 # Passing and Presentation
 ***
@@ -239,36 +239,36 @@ Being perceived as masculine has a lot to do with your body, especially muscle i
 
 # Binding ([link](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/binding.md))
 ***
-&gt;## [How do I bind?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/binding#wiki_how_do_i_bind.3f.md)
-&gt;## [Where can I get a binder?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/binding#wiki_where_can_i_get_a_binder.3f.md)
-&gt;## [Is binding dangerous?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/binding#wiki_is_binding_dangerous.3f.md)
+&gt;## [How do I bind?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/binding.md#wiki_how_do_i_bind.3F)
+&gt;## [Where can I get a binder?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/binding.md#wiki_where_can_i_get_a_binder.3F)
+&gt;## [Is binding dangerous?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/binding.md#wiki_is_binding_dangerous.3F)
 
 # Packing ([link](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/packing.md))
 ***
-&gt;## [What kind of packer should I get?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/packing#wiki_what_kind_of_packer_should_i_get.3f.md)
-&gt;## [How can I keep my packer in place?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/packing#wiki_how_can_i_keep_my_packer_in_place.3f.md)
-&gt;## [Do I need to pack to pass as male?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/packing#wiki_do_i_need_to_pack_to_pass_as_male.3f.md)
+&gt;## [What kind of packer should I get?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/packing.md#wiki_what_kind_of_packer_should_i_get.3F)
+&gt;## [How can I keep my packer in place?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/packing.md#wiki_how_can_i_keep_my_packer_in_place.3F)
+&gt;## [Do I need to pack to pass as male?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/packing.md#wiki_do_i_need_to_pack_to_pass_as_male.3F)
 
 # Bathrooms ([link](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out/bathrooms.md))
 ***
-&gt;## [How can I begin to use men’s public bathrooms?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out/bathrooms#wiki_how_can_i_begin_to_use_men.2019s_public_bathrooms.3f.md)
-&gt;## [What are my options for stand-to-pee (STP) devices?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out/bathrooms#wiki_what_are_my_options_for_stand-to-pee_.28stp.29_devices.3f.md)
+&gt;## [How can I begin to use men’s public bathrooms?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out/bathrooms.md#wiki_how_can_i_begin_to_use_men.2019s_public_bathrooms.3F)
+&gt;## [What are my options for stand-to-pee (STP) devices?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/coming_out/bathrooms.md#wiki_what_are_my_options_for_stand-to-pee_.28stp.29_devices.3F)
 
 # Sex ([link](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/sex.md))
 ***
-&gt;## [Can I use packers for sex?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/sex#wiki_can_i_use_packers_for_sex.3f.md)
-&gt;## [How and when can I disclose my trans identity to potential sexual partners?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/sex#wiki_how_and_when_can_i_disclose_my_trans_identity_to_potential_sexual_partners.3f.md)
+&gt;## [Can I use packers for sex?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/sex.md#wiki_can_i_use_packers_for_sex.3F)
+&gt;## [How and when can I disclose my trans identity to potential sexual partners?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/sex.md#wiki_how_and_when_can_i_disclose_my_trans_identity_to_potential_sexual_partners.3F)
 
 # Testosterone ([link](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone.md))
 ***
-&gt;## [How to Start](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone#wiki_how_to_start.md)
-&gt;## [Cost](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone#wiki_cost.md)
-&gt;## [Summary of Changes from T](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone#wiki_summary_of_changes_from_t.md)
-&gt;## [Dose](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone#wiki_dose.md)
-&gt;## [Alternatives to Injections](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone#wiki_alternatives_to_injection.md)
-&gt;## [Long Term Saftey](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone#wiki_long-term_safety.md)
-&gt;## [Travel](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone#wiki_travel.md)
-&gt;## [DHT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone#wiki_dht.md)
+&gt;## [How to Start](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone.md#wiki_how_to_start)
+&gt;## [Cost](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone.md#wiki_cost)
+&gt;## [Summary of Changes from T](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone.md#wiki_summary_of_changes_from_t)
+&gt;## [Dose](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone.md#wiki_dose)
+&gt;## [Alternatives to Injections](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone.md#wiki_alternatives_to_injection)
+&gt;## [Long Term Saftey](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone.md#wiki_long-term_safety)
+&gt;## [Travel](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone.md#wiki_travel)
+&gt;## [DHT](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index/testosterone.md#wiki_dht)
 
 # Pumping
 
@@ -345,7 +345,7 @@ A hysterectomy, the removal of the uterus, means you will no longer be able to c
 
 ***How much is my transition going to cost?***
 
-The cost of transition varies with your location and what specific steps you want to take in your transition. For more information on transition where you live, see [Country-Specific Resources](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_country-specific_resources.md). For an idea of ongoing transition expenses, see this example by [Gender Outlaw](http://genderoutlaw.wordpress.com/transition-expenses/).
+The cost of transition varies with your location and what specific steps you want to take in your transition. For more information on transition where you live, see [Country-Specific Resources](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_country-specific_resources). For an idea of ongoing transition expenses, see this example by [Gender Outlaw](http://genderoutlaw.wordpress.com/transition-expenses/).
 
 **Presentation**
 Acquiring a wardrobe of male clothing can be expensive, especially if your proportions are uncommon and you need things tailored. Shopping at local thrift stores can reduce this expense. This is especially wise if you are pre-T and are planning to gain a lot of muscle through working out. Don’t spend a lot of money on clothes that won’t fit you in the near future. 
@@ -355,19 +355,19 @@ Some people have had success buying clothing from eBay, [AliExpress](http://www.
 ***
 **Hormone therapy**
 
-For a rough summary of the monthly cost of testosterone, see our chart in [Testosterone](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_testosterone.md). For as long as you are on testosterone, you will need regular blood work and visits to your prescribing doctor (usually every 6 months). Your private insurance or publicly funded healthcare may cover some of these expenses.
+For a rough summary of the monthly cost of testosterone, see our chart in [Testosterone](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_testosterone). For as long as you are on testosterone, you will need regular blood work and visits to your prescribing doctor (usually every 6 months). Your private insurance or publicly funded healthcare may cover some of these expenses.
 
 You may require additional health care and drugs to treat unwanted effects from testosterone such as acne and hair loss. Some people recommend taking vitamin supplements. Speak to your doctor about what supplements can do for you.
 
 * USA: If you use a local pharmacy, check [GoodRx.com](http://goodrx.com) for a coupon that may save you significant money on your testosterone prescription. 
 
-* Canada: Doctor's visits and bloodwork ordered by your doctor are covered by public health insurance. Your drug cost may also be covered, see [Canada](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_canada.md).
+* Canada: Doctor's visits and bloodwork ordered by your doctor are covered by public health insurance. Your drug cost may also be covered, see [Canada](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_canada).
 
-* UK: If you are with NHS, they cover the drug cost but residents of England must pay prescription charges. Another way to have your testosterone and bloodwork funded is to enter a Shared Care agreement with a private doctor. See [United Kingdom](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_united_kingdom.md).
+* UK: If you are with NHS, they cover the drug cost but residents of England must pay prescription charges. Another way to have your testosterone and bloodwork funded is to enter a Shared Care agreement with a private doctor. See [United Kingdom](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_united_kingdom).
 
 ***
 **Surgery**
-Costs vary by surgeon and procedure. For information on publicly funded surgeries in certain countries, see [Country-Specific Resources](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_country-specific_resources.md). 
+Costs vary by surgeon and procedure. For information on publicly funded surgeries in certain countries, see [Country-Specific Resources](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_country-specific_resources). 
 
 When calculating the cost of your surgery, be sure to consider peripheral expenses such as travel, medical supplies, time off work, scar treatment, and health care to address postoperative complications that may arise.
 
@@ -379,7 +379,7 @@ When calculating the cost of your surgery, be sure to consider peripheral expens
 
 ***
 **Legal changes**
-If you wish to change your legal name and gender, the process may involve fees. In some places, a gender change requires a letter from your doctor or surgeon, which you may be charged for. You may be required to pay to publish a notice of your name change in a local newspaper. Also, once you have the legal change you will want to update all your identification documents (e.g. passport) and these may require additional fees to update. If you’re planning to change both name and gender, you can save money by waiting to do both at the same time, so you only pay for one replacement passport. For info on legal costs where you live, see [Country-Specific Resources](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_country-specific_resources.md).
+If you wish to change your legal name and gender, the process may involve fees. In some places, a gender change requires a letter from your doctor or surgeon, which you may be charged for. You may be required to pay to publish a notice of your name change in a local newspaper. Also, once you have the legal change you will want to update all your identification documents (e.g. passport) and these may require additional fees to update. If you’re planning to change both name and gender, you can save money by waiting to do both at the same time, so you only pay for one replacement passport. For info on legal costs where you live, see [Country-Specific Resources](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_country-specific_resources).
 
 ***
 ***What are some ways I can save more of my income to finance my transition?***
@@ -425,7 +425,7 @@ Remember: If you stop taking testosterone and/or other steps to transition, but 
 
 ***Which changes from testosterone are reversible, and which are not?***
 
-The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_medical_disclaimer.md).
+The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_medical_disclaimer).
 
 After you stop taking testosterone, some of the effects of the hormone will reverse, but they won’t necessarily reverse completely. Some reversals will be immediate, while others can take months or years.
 
@@ -586,7 +586,7 @@ Research paper|Country|Prevalence of trans people or MTF to FTM ratio|Criteria
 
 * **Genderqueer:** A person who feels that their gender identity is not wholly male nor wholly female may identify as genderqueer. This broad term can include identities between male and female, identities comprising of multiple genders (e.g. bigender), identities without gender (agender, neutrois), and those with a gender identity that fluctuates (genderfluid). A person who is genderqueer may or may not choose to undertake hormone therapy or surgery as part of their transition. 
 
-* **Passing:** On /r/ftm, this term usually refers to a person's ability to be perceived by others as a male. Passing is not necessarily the goal of transition, but if you personally want to be perceived as a male or as more masculine, see [Passing and Presentation](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_passing_and_presentation.md) for advice.
+* **Passing:** On /r/ftm, this term usually refers to a person's ability to be perceived by others as a male. Passing is not necessarily the goal of transition, but if you personally want to be perceived as a male or as more masculine, see [Passing and Presentation](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_passing_and_presentation) for advice.
 
 * **Trans:** This is a broad term for individuals whose gender expression and/or gender identity differs from conventional expectations based on the physical sex they were assigned at birth. We use the term to include a wide range of identities including transgender, transsexual, transvestite, genderqueer, genderfluid, non-binary, agender, and two-spirit.
 

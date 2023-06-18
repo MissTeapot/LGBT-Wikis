@@ -186,7 +186,7 @@ There's a trademark on "THERAPEL PELLET THERAPY", which is very similar to Virde
 
 Before inserting the implant a local anesthetic of lidocaine is injected, otherwise it would no doubt be extremely painful. The "needle" of a trocar is *very* thick. With the local anesthetic the insertion of the implant is painless, however for some (me) the local anesthetic itself is extremely painful for a brief time as lidocaine is quite acidic.
 
-See the wiki entry on [lidocaine inejections](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/local_anesthetic#wiki_lidocaine_injections.md)
+See the wiki entry on [lidocaine inejections](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/local_anesthetic.md#wiki_lidocaine_injections)
 
 
 
@@ -792,7 +792,7 @@ reddit
 
 ## Australia
 
-There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implants#wiki_implant_technology.md).
+There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/implants.md#wiki_implant_technology).
 
 * https://custommedicine.com.au/
 * https://www.stenlake.com.au/

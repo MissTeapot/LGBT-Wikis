@@ -61,8 +61,8 @@ Wiki pages
 Other popular destinations for surgery
 
 * [Thailand for genital surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/thailand.md)
-* [Facial Team](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/europe#wiki_facial_team.md) in Spain for FFS
-* [Yeson in Korea](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/vfs/korea#wiki_hyung-tae_kim_.28yeson.29.md) for Voice Feminization surgery
+* [Facial Team](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/europe.md#wiki_facial_team) in Spain for FFS
+* [Yeson in Korea](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/vfs/korea.md#wiki_hyung-tae_kim_.28yeson.29) for Voice Feminization surgery
 
 
 

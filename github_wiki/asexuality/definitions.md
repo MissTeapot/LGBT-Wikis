@@ -37,9 +37,9 @@ Terms like those below also create the conditions for greater awareness, and con
     1. *adj.* Of or relating to aegosexuality.
     2. *n.* A person whose sexual orientation is aegosexuality.
 
-* **aegosexuality** (also called **autochorissexuality** or **anegosexuality**): *n.* A subset of asexuality defined as a disconnection between oneself and a sexual target/object of arousal. See [*Grey asexuality: Aegosexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality#wiki_aegosexuality.md).
+* **aegosexuality** (also called **autochorissexuality** or **anegosexuality**): *n.* A subset of asexuality defined as a disconnection between oneself and a sexual target/object of arousal. See [*Grey asexuality: Aegosexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality.md#wiki_aegosexuality).
 
-* **aesthetic attraction**: *n.* An urge to observe, be close to, be sensual with, or have a relationship with a specific person based on their physical appearance. Usually the term implies a lack of sexual or romantic attraction to that person. See [*The a-spectra: Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sensual_and_aesthetic_attraction.md).
+* **aesthetic attraction**: *n.* An urge to observe, be close to, be sensual with, or have a relationship with a specific person based on their physical appearance. Usually the term implies a lack of sexual or romantic attraction to that person. See [*The a-spectra: Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sensual_and_aesthetic_attraction).
 
 * **affectual orientation**: *n.* An alternative term for romantic orientation.
 
@@ -93,7 +93,7 @@ Terms like those below also create the conditions for greater awareness, and con
 
 * **aromance**: *n.* An alternative term for aromanticism.
 
-* **aromanticism**: *n.* A romantic orientation where a person doesn't experience romantic attraction. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md).
+* **aromanticism**: *n.* A romantic orientation where a person doesn't experience romantic attraction. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction).
 
 * **aromisia**: *n.* An alternative term for arophobia.
 
@@ -109,7 +109,7 @@ Terms like those below also create the conditions for greater awareness, and con
     1. *adj.* Of or relating to asensuality.
     2. *n.* A person whose sensual orientation is asensuality.
 
-* **asensuality**: *n.* A sensual orientation where a person doesn't experience sensual attraction. See [*The a-spectra: Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sensual_and_aesthetic_attraction.md).
+* **asensuality**: *n.* A sensual orientation where a person doesn't experience sensual attraction. See [*The a-spectra: Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sensual_and_aesthetic_attraction).
 
 * **asexual** (commonly abbreviated as **ace**):
     1. *adj.* Of or relating to asexuality.
@@ -133,7 +133,7 @@ Terms like those below also create the conditions for greater awareness, and con
     1. *adj.* Of or relating to biromanticism.
     2. *n.* A person whose romantic orientation is biromanticism.
 
-* **biromanticism**: *n.* A romantic orientation where a person experiences romantic attraction to both men and women. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md).
+* **biromanticism**: *n.* A romantic orientation where a person experiences romantic attraction to both men and women. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction).
 
 * **caedsexual**: *adj.,n.*  Refers to a person who feels like there were, at some point, allosexual, but that has be taken away (or 'cut away') by past traumatic experience.
 
@@ -149,7 +149,7 @@ Terms like those below also create the conditions for greater awareness, and con
     1. *adj.* Of or relating to demiromanticism.
     2. *n.* A person whose romantic orientation is demiromanticism.
 
-* **demiromanticism**: *n.* A romantic orientation where a person feels romantic attraction only to people with whom they have an emotional bond. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md).
+* **demiromanticism**: *n.* A romantic orientation where a person feels romantic attraction only to people with whom they have an emotional bond. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction).
 
 * **erasure**: See *asexual erasure*. (This is a broader term that encompasses other forms of erasure such as bi-erasure.)
 
@@ -183,13 +183,13 @@ Terms like those below also create the conditions for greater awareness, and con
     1. *adj.* Of or relating to heteroromanticism.
     2. *n.* A person whose romantic orientation is heteroromanticism.
 
-* **heteroromanticism**: *n.* A romantic orientation where a person experiences romantic attraction to people of the opposite gender. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md).
+* **heteroromanticism**: *n.* A romantic orientation where a person experiences romantic attraction to people of the opposite gender. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction).
 
 * **homoromantic**:
     1. *adj.* Of or relating to homoromanticism.
     2. *n.* A person whose romantic orientation is homoromanticism.
 
-* **homoromanticism**: *n.* A romantic orientation where a person experiences romantic attraction to people of the same gender. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md).
+* **homoromanticism**: *n.* A romantic orientation where a person experiences romantic attraction to people of the same gender. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction).
 
 * **iamvanosexual**: *adj.* Refers to someone who enjoys having sexual acts performed on them but does not want to perform sexual acts on others. Iamvanosexual people may be sex-neutral or sex-repulsed when is comes to performing sexual acts.
 
@@ -215,7 +215,7 @@ Terms like those below also create the conditions for greater awareness, and con
     1. *adj.* Of or relating to pan-romanticism.
     2. *n.* A person whose romantic orientation is pan-romantic.
 
-* **pan-romanticism** (also called **poly-romanticism**): *n.* A romantic orientation where a person experiences romantic attraction to any and all genders. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md).
+* **pan-romanticism** (also called **poly-romanticism**): *n.* A romantic orientation where a person experiences romantic attraction to any and all genders. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction).
 
 * **perioriented**: *adj.* Refers to someone whose romantic and sexual orientations are the same. For example, a heteroromantic heterosexual, or an aromantic asexual.
 
@@ -233,35 +233,35 @@ Terms like those below also create the conditions for greater awareness, and con
 
 * **quaziplatonic** (also called **quazi platonic**): *adj.* An alternative term for *queer platonic*. Though less common than *queer platonic*, *quaziplatonic* is sometimes preferred because it avoids use of the term *queer*, which can be seen as offensive.
 
-* **queer platonic relationship** (also called **queer platonic partnership**. May also be spelled **queerplatonic**): *n.* An intimate relationship that is the same as a standard relationship but without the romance and sex. See [*The a-spectra: Platonic and alterous attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_platonic_and_alterous_attraction.md).
+* **queer platonic relationship** (also called **queer platonic partnership**. May also be spelled **queerplatonic**): *n.* An intimate relationship that is the same as a standard relationship but without the romance and sex. See [*The a-spectra: Platonic and alterous attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_platonic_and_alterous_attraction).
 
 * **quoisexual** (also called **quoiromantic**, **WTFsexual**, **WTFromantic**): *adj.* Refers to a person who is unsure or confused about if or what kind of attraction they feel. The -sexual/-romantic versions may be used to indicate which kind of orientation is found confusing.
 
 * **reciprosexual**: *adj.* Refers to a person who feels sexual attraction only after someone feels attraction towards them.
 
-* **romantic attraction**: *n.* An urge to form a relationship with a specific person that includes some form of extra-ordinary intimacy, emotional, sensual, sexual, or otherwise. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md).
+* **romantic attraction**: *n.* An urge to form a relationship with a specific person that includes some form of extra-ordinary intimacy, emotional, sensual, sexual, or otherwise. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction).
 
 * **romantic libido**: *n.* refers to a person's frequency of romantic feelings (or desire to form romantic relationships) without reference to their cause. Used when discussing the fact that some people on the a-spectrum report feeling romantic desire that is entirely abstract, and not directed at any people (fictional or otherwise). 
 
-* **romantic orientation**: *n.* Refers to who a person typically feels romantic attraction towards. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md).
+* **romantic orientation**: *n.* Refers to who a person typically feels romantic attraction towards. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction).
 
-* **sensual attraction**: *n.* Refers to a person's desire to be participant in acts of physical intimacy that aren't sexual. Examples include hand holding, cuddling, hugging, and for some, kissing. See [*The a-spectra: Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sensual_and_aesthetic_attraction.md).
+* **sensual attraction**: *n.* Refers to a person's desire to be participant in acts of physical intimacy that aren't sexual. Examples include hand holding, cuddling, hugging, and for some, kissing. See [*The a-spectra: Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sensual_and_aesthetic_attraction).
 
 * **sexual attraction**: *n.* An urge to have sex with a specific person.
 
-* **sex-aversion**: *n.* Refers to a negative response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2c_favourability.2c_and_aversion.md).
+* **sex-aversion**: *n.* Refers to a negative response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sex-repulsion.2C_favourability.2C_and_aversion).
 
-* **sex-favourability**: *n.* Refers to a positive response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2c_favourability.2c_and_aversion.md).
+* **sex-favourability**: *n.* Refers to a positive response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sex-repulsion.2C_favourability.2C_and_aversion).
 
-* **sex-indifference**: *n.* Refers to an indifferent response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2c_favourability.2c_and_aversion.md).
+* **sex-indifference**: *n.* Refers to an indifferent response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sex-repulsion.2C_favourability.2C_and_aversion).
 
-* **sex-positivity**: *n.* Refers to an positive attitude towards other people having sex. See [*The a-spectra: Sex-positivity and negativity*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-positivity_and_negativity.md)
+* **sex-positivity**: *n.* Refers to an positive attitude towards other people having sex. See [*The a-spectra: Sex-positivity and negativity*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sex-positivity_and_negativity)
 
-* **sex-neutrality**: *n.* Refers to an neutral attitude towards other people having sex. See [*The a-spectra: Sex-positivity and negativity*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-positivity_and_negativity.md).
+* **sex-neutrality**: *n.* Refers to an neutral attitude towards other people having sex. See [*The a-spectra: Sex-positivity and negativity*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sex-positivity_and_negativity).
 
-* **sex-negativity**: *n.* Refers to an negative attitude towards other people having sex. See [*The a-spectra: Sex-positivity and negativity*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-positivity_and_negativity.md).
+* **sex-negativity**: *n.* Refers to an negative attitude towards other people having sex. See [*The a-spectra: Sex-positivity and negativity*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sex-positivity_and_negativity).
 
-* **sex-repulsion**: *n.* Refers to a negative response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion.2c_favourability.2c_and_aversion.md).
+* **sex-repulsion**: *n.* Refers to a negative response to the prospect of having sex. See [*The a-spectra: Sex-repulsion, favourability, and aversion*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sex-repulsion.2C_favourability.2C_and_aversion).
 
 * **split-attraction model**: *n.* Refers to a model of human relationships where sexual and romantic attraction are considered to be separate (but related) phenomena.
 

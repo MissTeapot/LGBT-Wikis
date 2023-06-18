@@ -61,7 +61,7 @@ Who are the people behind the anti-trans movement in Australia and New Zealand? 
 
 * Roberto D'Angelo, Sydney psychiatrist is a Fellow of the RANZCP and also very active with anti-trans groups both in Australia and abroard.
     * https://transsafety.network/posts/segm-uncovered
-    * wiki entry [below](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/psychs/australia#wiki_roberto_d.27angelo.md)
+    * wiki entry [below](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/psychs/australia.md#wiki_roberto_d.27angelo)
 
 
 ## Procare Group

@@ -785,7 +785,7 @@ Review sites
 *****
 ## Florida
 
-Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/introduction#wiki_florida.md) to see what this means.
+Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/introduction.md#wiki_florida) to see what this means.
 
 Also note the high death rate in Florida from BBL even after new safety guidelines were introduced, *"South Florida carries the highest BBL mortality by far in the nation... South Florida has experienced 25 BBL related fat emboli deaths from 2010-2022, however 14 of those deaths have taken place after the Aesthetic Surgery Education and Research Foundation (ASERF) guidelines and the Florida Board of Medicine BBL "subcutaneous-only" rule. The working environment at the clinics and the short surgical times for these cases, may be the most important contributors to the BBL mortality in South Florida."*
 * 2022 - [Brazilian Butt Lift–Associated Mortality: The South Florida Experience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9896146/) by Pat Pazmiño, Onelio Garcia
@@ -836,7 +836,7 @@ Surgeons sites
 * https://www.vitals.com/doctors/Dr_Moises_Salama.html
 * https://www.ratemds.com/doctor-ratings/2999549/Dr-MOISES-SALAMA-AVENTURA-FL.html
 
-According to [this pdf](https://appsmqa.doh.state.fl.us/MQASearchServices/HealthCareProviders/PractitionerProfilePrintFriendly?LicInd=101035&amp;ProCde=1501) Salama does not carry malpractice insurance (for license expiring 01/31/2019). See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index#wiki_malpractice_insurance_in_the_usa.md) for what this might mean.
+According to [this pdf](https://appsmqa.doh.state.fl.us/MQASearchServices/HealthCareProviders/PractitionerProfilePrintFriendly?LicInd=101035&amp;ProCde=1501) Salama does not carry malpractice insurance (for license expiring 01/31/2019). See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index.md#wiki_malpractice_insurance_in_the_usa) for what this might mean.
 
 reddit
 

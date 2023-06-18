@@ -63,7 +63,7 @@ Note that for this question, respondents were asked to select only the response 
 
 #### Experiences
 
-If you found the above explanation confusing, you may like to read [this page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences#wiki_sexual_attraction.md), which has a few allosexuals describing the sexual attraction they feel. The most common theme is a strong urge to touch and get as close as possible to the other person – usually as a result of seeing them or a particular of their body parts.
+If you found the above explanation confusing, you may like to read [this page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences.md#wiki_sexual_attraction), which has a few allosexuals describing the sexual attraction they feel. The most common theme is a strong urge to touch and get as close as possible to the other person – usually as a result of seeing them or a particular of their body parts.
 
 #### Related FAQs
 
@@ -85,7 +85,7 @@ Romantic love is a significantly harder concept to pin down than sexual attracti
 * Enhanced fear: if you don't know the other person well you may be afraid of doing things wrong, or that they don't feel the same way.
 * A feeling that the love can somehow transcend space, time, or death.
 * A conviction that the feeling is good, right, and noble.
-* Sensual attraction (see [*Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality#wiki_sensual_and_aesthetic_attraction.md)).
+* Sensual attraction (see [*Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality.md#wiki_sensual_and_aesthetic_attraction)).
 
 When considered biologically there's no one defining feature that makes a feeling (or group of feelings) for another person 'love' and not 'liking'. The two emotions – as well as their physiological aspects – differ in degree rather than kind, both being associated with general pro-social and bonding hormones.
 
@@ -114,14 +114,14 @@ A squish is a crush that lacks either romantic attraction, sexual attraction, or
 * A desire to spend time with the other person or get to know them better.
 * No jealousy / desire for exclusivity.
 
-Although allosexuals / alloromantics typically do not find the concept of squishes to be useful, the term can help those on the a-spectrum better understand the experience of themselves and others. You can read more about people's experience of squishes and their understanding of the difference between squishes and crushes on the page [*Experiences: Squishes*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences#wiki_squishes.md).
+Although allosexuals / alloromantics typically do not find the concept of squishes to be useful, the term can help those on the a-spectrum better understand the experience of themselves and others. You can read more about people's experience of squishes and their understanding of the difference between squishes and crushes on the page [*Experiences: Squishes*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences.md#wiki_squishes).
 
 #### Romantic libido
 
 'Romantic libido' is a term referring to a person's frequency of romantic feelings (or desire to form romantic relationships) without reference to their cause. Just like sexual libido, romantic libido can occur with or without alloromanticism or aegoromanticism. It can be a useful term since some people on the a-spectrum report feeling romantic desire that is entirely abstract, and not directed at any people (fictional or otherwise). 
 
 #### Experiences
-You can also find some personal accounts of what romantic love feels like [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences#wiki_romantic_attraction.md).
+You can also find some personal accounts of what romantic love feels like [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences.md#wiki_romantic_attraction).
 
 #### Related FAQs
 
@@ -130,9 +130,9 @@ You can also find some personal accounts of what romantic love feels like [here]
 ### Libido and arousal
 Libido and arousal are terms that talk about urges or bodily changes without making reference to the cause or target. They are distinct concepts, both from each other and from sexual attraction.
 
-Arousal has two components: psychological and physiological. Physiological arousal refers to bodily changes such as an erection or increased heart-rate. Psychological arousal refers to a general urge to engage in sexual activities such as sex or masturbation (which is distinct from sexual attraction as described in [*Sexual attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality#wiki_sexual_attraction.md)). It is possible to physiologically aroused without being psychologically aroused. For example, it's not uncommon for male rape victims to experience erections or ejaculation, which can be both confusing and shame-inducing. For more details on the physiological aspects of arousal see the FAQ [*What does arousal feel like?*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/what_does_arousal_feel_like.md).
+Arousal has two components: psychological and physiological. Physiological arousal refers to bodily changes such as an erection or increased heart-rate. Psychological arousal refers to a general urge to engage in sexual activities such as sex or masturbation (which is distinct from sexual attraction as described in [*Sexual attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality.md#wiki_sexual_attraction)). It is possible to physiologically aroused without being psychologically aroused. For example, it's not uncommon for male rape victims to experience erections or ejaculation, which can be both confusing and shame-inducing. For more details on the physiological aspects of arousal see the FAQ [*What does arousal feel like?*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/what_does_arousal_feel_like.md).
 
-Libido refers to a person's general pattern of (psychological) arousal. A person may be often aroused (high libido), rarely aroused (low libido), or never aroused at all (no libido). Some asexuals may become psychologically aroused in response to erotica/pornography/concepts/etc., but with no desire to be a participant in the sexual activities therein. For more information see the wiki page [Grey-asexuality: aegosexuality](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality#wiki_aegosexuality.md).
+Libido refers to a person's general pattern of (psychological) arousal. A person may be often aroused (high libido), rarely aroused (low libido), or never aroused at all (no libido). Some asexuals may become psychologically aroused in response to erotica/pornography/concepts/etc., but with no desire to be a participant in the sexual activities therein. For more information see the wiki page [Grey-asexuality: aegosexuality](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality.md#wiki_aegosexuality).
 
 #### Analogy
 
@@ -172,7 +172,7 @@ According to the 2016 Asexual Community Survey [2, p.21], almost 80% of asexuals
 
 #### Experiences
 
-You can read people describing their own sensual attraction / sensuality [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences#wiki_sensual_and_aesthetic_attraction.md).
+You can read people describing their own sensual attraction / sensuality [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences.md#wiki_sensual_and_aesthetic_attraction).
 
 ### Sex-repulsion and -favourability
 

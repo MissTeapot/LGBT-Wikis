@@ -14,6 +14,6 @@ One common way of explaining this is to consider, for example, a massage. A pers
 ^1 Be careful to note that sex-favourability is not the same as enjoying sex.
 
 ### See also
-* [The a-spectra: Sex-repulsion and -favourablity](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion_and_-favourability.md)^1
+* [The a-spectra: Sex-repulsion and -favourablity](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sex-repulsion_and_-favourability)^1
 * [Do asexuals have sex?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/do_asexuals_have_sex.md)
 * [Why do asexual people have sex?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/why_do_asexuals_have_sex.md)

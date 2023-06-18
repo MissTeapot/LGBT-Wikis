@@ -19,7 +19,7 @@ If you find yourself becoming aroused by fantasies or erotica you may be aegosex
 ### See also
 
 * [How do I know if I'm asexual?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/how_do_i_know.md)
-* [*Grey-asexuality: Aegosexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality#wiki_aegosexuality.md)
+* [*Grey-asexuality: Aegosexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality.md#wiki_aegosexuality)
 * [Can I be asexual if I consume pornography / erotica?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/can_i_be_asexual_if_i_use_pornography.md)
 * [Can I be asexual if I have a kink / fetish?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/can_i_be_asexual_if_i_have_a_kink.md)
 

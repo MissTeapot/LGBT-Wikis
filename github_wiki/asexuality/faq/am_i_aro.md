@@ -6,7 +6,7 @@
 
 Just as with asexuality, it can be difficult to know if you are aromantic or not because, if you are aromantic, it requires you to pin down a feeling that you don't personally experience. But even on top of that, for most people it's much harder to pin down whether they are aromantic compared to whether they are asexual. This is because romanticism is a significantly more nebulous concept than sexual attraction. However – again, just as with asexuality – just because you might not be able to come up with a definite, satisfying answer doesn't mean you've wasted your time thinking about it. At the end of the day, the aromanticism movement is about recognising what each of us really wants out of the relationships in our lives and feeling like we can pursue that without being obligated to act in a certain way because of whatever preconceived notions about romanticism.
 
-An aromantic is someone who doesn't feel romantic attraction. You can read [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md) for a description of what romantic attraction is. Romantic attraction often interacts and overlaps with many other kinds of attraction, including sexual attraction (for allosexuals), aesthetic attraction, sensual attraction, platonic attraction, and so on. However, romantic attraction is not in itself any of these particular kinds of attraction. In other words, all of the following are compatible with aromanticim.
+An aromantic is someone who doesn't feel romantic attraction. You can read [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction) for a description of what romantic attraction is. Romantic attraction often interacts and overlaps with many other kinds of attraction, including sexual attraction (for allosexuals), aesthetic attraction, sensual attraction, platonic attraction, and so on. However, romantic attraction is not in itself any of these particular kinds of attraction. In other words, all of the following are compatible with aromanticim.
 
 * Wanting to have sex with someone / sexual attraction;
 * enjoying the way someone looks;
@@ -14,7 +14,7 @@ An aromantic is someone who doesn't feel romantic attraction. You can read [*The
 * feeling a strong urge to befriend someone;
 * feeling like you don't want to be alone in life.
 
-If you think you may be aromantic you may want to read [*Experienes: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences#wiki_romantic_attraction.md), which has first-hand descriptions of what romanticism feels like.
+If you think you may be aromantic you may want to read [*Experienes: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences.md#wiki_romantic_attraction), which has first-hand descriptions of what romanticism feels like.
 
 If you only experience romantic attraction rarely or under specific circumstances, then you may be grey-aromantic. You may wish to consult [*Grey-asexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality.md). Though the page is written primarily in respect of allosexuality / asexuality, many if not all of the concepts can be simply translated to alloromanticism / aromanticism.
 
@@ -39,7 +39,7 @@ Perhaps you have felt one of the following.
 * knowing what counts as romantic based on what you think other people would say, rather than knowing what feelings it would evoke in yourself.
 * never having a crush or not being sure if you have;
 * not having fallen in love before or not being sure if you have;
-* the concept of [squishes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_squishes.md) resonating with you;
+* the concept of [squishes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_squishes) resonating with you;
 * trying to 'force' yourself to have a crush, or thinking that crushes were something that people generally chose to have;
 * (for allosexuals) a friends-with-benefits relationship sounding ideal to you;
 

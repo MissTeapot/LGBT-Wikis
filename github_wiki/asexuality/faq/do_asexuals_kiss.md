@@ -12,7 +12,7 @@ Separately, similar to sex-repulsion and -favourability, an asexual person (or i
 
 ### See also
 
-* [The a-spectra: Romantic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md)
-* [The a-spectra: Sensual and aesthetic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sensual_and_aesthetic_attraction.md)
-* [The a-spectra: Sex-repulsion and -favourability](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sex-repulsion_and_-favourability.md)
+* [The a-spectra: Romantic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction)
+* [The a-spectra: Sensual and aesthetic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sensual_and_aesthetic_attraction)
+* [The a-spectra: Sex-repulsion and -favourability](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_sex-repulsion_and_-favourability)
 * [Do asexual people have sex?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/do_asexuals_have_sex.md)

@@ -15,6 +15,6 @@ Ultimately the take away is that erections are a physical response in your body 
 ### See also
 
 * [How do I know if I'm asexual?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/how_do_i_know.md)
-* [*Grey-asexuality: Aegosexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality#wiki_aegosexuality.md)
+* [*Grey-asexuality: Aegosexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality.md#wiki_aegosexuality)
 * [What's the difference between sexual attraction and arousal?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/whats_the_difference_between_sexual_attraction_and_arousal.md)
 * [What does arousal feel like?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/what_does_arousal_feel_like.md)

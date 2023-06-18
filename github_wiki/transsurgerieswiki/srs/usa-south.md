@@ -134,7 +134,7 @@ Other
 *****
 # Florida
 
-Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index#wiki_malpractice_insurance_in_the_usa.md) to see what this means.
+Many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index.md#wiki_malpractice_insurance_in_the_usa) to see what this means.
 
 ## Ahmed Abdullah
 
@@ -473,7 +473,7 @@ Surgeons sites
 * https://www.vitals.com/doctors/Dr_Christopher_Salgado.html
 * https://www.youtube.com/channel/UCyAe7LCSyCVSJxxEgwCkiaw
 
-Malpractice Insurance - See the [Malpractice Insurance in the USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index#wiki_malpractice_insurance_in_the_usa.md) for what this means
+Malpractice Insurance - See the [Malpractice Insurance in the USA](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index.md#wiki_malpractice_insurance_in_the_usa) for what this means
 
 * https://mqa-internet.doh.state.fl.us/MQASearchServices/HealthCareProviders/Details?LicInd=89179&amp;ProCde=1501 - *"I have elected not to carry medical malpractice insurance however, I agree to satisfy any adverse judgments up to the minimum amounts pursuant to s. 458.320(5) (g)1, F. S. I understand that I must either post notice in a sign prominently displayed in my reception area or provide a written statement to any person to whom medical services are being provided that I have decided not to carry medical malpractice insurance. I understand that such a sign or notice must contain the wording specified in s. 458.320(5) (g), F.S."*
 

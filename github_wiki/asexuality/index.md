@@ -22,7 +22,7 @@ The page [What is asexuality?](https://github.com/MissTeapot/LGBT-Wikis/blob/mai
 
 * [Anti-asexual bias in society](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/anti_ace_bias.md)
 * [Guide to asexual symbols](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/symbols_and_icons.md)
-* [Lists of asexual people and characters](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/symbols_and_icons#wiki_lists_of_asexual_people.md)
+* [Lists of asexual people and characters](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/symbols_and_icons.md#wiki_lists_of_asexual_people)
 * [Asexuality and religion](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/asexuality_and_religion.md)
 * [LGBT inclusion](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/lgbt_inclusion.md)
 * [Representation](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/representation.md)

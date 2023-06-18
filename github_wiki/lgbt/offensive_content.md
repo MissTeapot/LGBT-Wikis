@@ -3,7 +3,7 @@ Offensive content
 
 As a safe space, /r/lgbt does not allow for offensive content. Many users come for a space to be welcomed in, and some comments are hostile and alienating. Being a GSRM space, it should be an outright given that all queer -phobias and -isms are not welcome at all. Similarly offensive content is elaborated on below. Some examples are listed.
 
-**[Return to the Rules page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/lgbt/rules#wiki_offensive_content.md).**
+**[Return to the Rules page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/lgbt/rules.md#wiki_offensive_content).**
 
 ## Denying one's identity
 ----

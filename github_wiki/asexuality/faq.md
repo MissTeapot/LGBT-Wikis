@@ -60,9 +60,9 @@ Below you can find a listing of all items currently on the FAQ.
 
 * [Don't people need sex? What about Maslow's hierarchy?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/dont_people_need_sex.md)
 
-* [How common is asexuality?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/demographics#wiki_prevalence.md)
+* [How common is asexuality?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/demographics.md#wiki_prevalence)
 
-* [Are most asexuals women, or men?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/demographics#wiki_prevalence.md)
+* [Are most asexuals women, or men?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/demographics.md#wiki_prevalence)
 
 * [Are all women asexual?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/are_all_women_ace.md)
 

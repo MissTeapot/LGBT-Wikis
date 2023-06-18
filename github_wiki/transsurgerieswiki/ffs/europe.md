@@ -1276,7 +1276,7 @@ realself
 *****
 ## Christopher Inglefield
 
-See the [SRS page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/europe#wiki_christopher_inglefield.md) for more details.
+See the [SRS page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/europe.md#wiki_christopher_inglefield) for more details.
 
 
 Surgeons sites

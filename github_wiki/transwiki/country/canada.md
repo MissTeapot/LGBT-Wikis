@@ -8,8 +8,8 @@ This page is to collect Canadian trans resources.
 Canadian reddit wiki surgery resources
 
 * [SRS/GCS](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/canada.md)
-* [Facial Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/other#wiki_canada.md)
-* [Voice Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/vfs/other#wiki_canada.md)
+* [Facial Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/ffs/other.md#wiki_canada)
+* [Voice Feminisation Surgery](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/vfs/other.md#wiki_canada)
 
 
 

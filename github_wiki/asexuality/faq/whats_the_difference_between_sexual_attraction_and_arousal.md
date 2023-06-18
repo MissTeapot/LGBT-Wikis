@@ -9,5 +9,5 @@ Arousal refers to bodily changes or urges themselves, whereas sexual attraction 
 ### See also
 
 * [What does arousal feel like?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/what_does_arousal_feel_like.md)
-* [Experiences: sexual attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences#wiki_sexual_attraction.md)
-* [Experiences: arousal](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences#wiki_arousal.md)
+* [Experiences: sexual attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences.md#wiki_sexual_attraction)
+* [Experiences: arousal](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences.md#wiki_arousal)

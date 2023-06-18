@@ -6,7 +6,7 @@ revision_date: 1607104267
 # Testosterone
 **Updated: 2020-11-23**
 ***
-Please read our [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_medical_disclaimer.md) before reading this section of the FAQ.
+Please read our [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_medical_disclaimer) before reading this section of the FAQ.
 ***
 
 ## How to Start
@@ -39,7 +39,7 @@ Some doctors are willing to prescribe hormone therapy to trans people on the bas
 
 The above resources can be especially useful if you’re trying to get on testosterone with a doctor who’s not experienced with transgender care. They explain the informed consent model, how to monitor hormone therapy, and why it’s important to provide it for trans clients.
 
-**A little tip:** If there's even a small chance you might be traveling internationally in the future, ask your doctor to write you a travel letter at the same time you get your testosterone prescription. See [Travel](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_travel.md)
+**A little tip:** If there's even a small chance you might be traveling internationally in the future, ask your doctor to write you a travel letter at the same time you get your testosterone prescription. See [Travel](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_travel)
 
 ***
 ### Hormone Therapy Under 18-years-old
@@ -93,7 +93,7 @@ This is highly dependent on your location and the specific medication you’re u
 
 ***
 ***I think my injection went wrong. Is it serious?***
-First and foremost, if you feel you are in serious danger, go to the emergency room or contact your doctor. The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_medical_disclaimer.md).
+First and foremost, if you feel you are in serious danger, go to the emergency room or contact your doctor. The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_medical_disclaimer).
 
 | **Issue**  | **Is is serious?** | **Anecdotal tips** |  
 |:---|:---|:---|
@@ -133,7 +133,7 @@ It is quite common to take several months, up to 6 months, for your period to st
 ***
 ***What happens if I stop taking testosterone?***
 
-You may be thinking of stopping testosterone because you’ve had all the changes you want, you’re experiencing side effects to your health, or you’re considering detransition. For a summary of the changes that occur after stopping testosterone, see [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_detransition.md).
+You may be thinking of stopping testosterone because you’ve had all the changes you want, you’re experiencing side effects to your health, or you’re considering detransition. For a summary of the changes that occur after stopping testosterone, see [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_detransition).
 
 ***
 ***How much genital growth can I expect to see on testosterone?***
@@ -150,7 +150,7 @@ The trans community is abound with rumors about the dangers of T, and many of th
 
 ***What changes can I expect from testosterone, and when?***
 
-The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_medical_disclaimer.md).
+The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_medical_disclaimer).
 
 Changes happen differently for everyone; what follows is a rough summary. Some of the information below comes from [Dr. Gorton’s guide](https://lgbtqpn.ca/wp-content/uploads/2015/03/Medical-Therapy-and-HM-for-Transgender-Men_2005.pdf), [Vancouver Coastal Health's Trans Care Guide](https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf) and the [Sherbourne Guidelines](https://www.rainbowhealthontario.ca/product/4th-edition-sherbournes-guidelines-for-gender-affirming-primary-care-with-trans-and-non-binary-patients/), but for many changes, there is no reliable source on when they occur. This guide was put together by members of the /r/ftm community based on personal experience. 
 

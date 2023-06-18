@@ -10,6 +10,6 @@ In any case, "straightness" isn't really a strict category, it's more of a loose
 
 ### See also
 
-* [Are asexual people LGBT?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq#wiki_.2022_are_asexual_people_lgbt.3f.md)
+* [Are asexual people LGBT?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq.md#wiki_.2022_are_asexual_people_lgbt.3F)
 * [Why do asexuals feel the need to come out?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/why_do_asexuals_come_out.md)
 * [Anti-asexual bias in society](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/anti_ace_bias.md)

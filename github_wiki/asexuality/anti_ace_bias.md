@@ -142,7 +142,7 @@ Of course, these figures should not be taken to imply that conversion therapy is
 
 'Allonormativity' is a term used in the a-spectrum community to refer to the fact that allosexuality^(8,9) is implicitly considered *normative* by society – that is, allosexuality is prescriptively defined as good or desirable. At a broader level, allonormativity puts a label to the cluster of cultural beliefs that are harmful towards asexuals. Allonormativity forms an invisible culturally dominant ideology which is both unquestioned and reinforced by cultural attitudes and media. 'Amatonormativity' similarly refers to society's normative prescriptions about romantic ideals, which affect aromantics in addition to bi/pan/poly-romantics.
 
-The false beliefs of this ideology are precisely the assumptions that asexuality as a social movement aims to refute, many of which are listed explicitly in [What is asexuality?: Asexuality as a social movement](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality#wiki_asexuality_as_a_social_movement.md). In broad stokes, these assumptions assert that
+The false beliefs of this ideology are precisely the assumptions that asexuality as a social movement aims to refute, many of which are listed explicitly in [What is asexuality?: Asexuality as a social movement](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality.md#wiki_asexuality_as_a_social_movement). In broad stokes, these assumptions assert that
 
 * everyone experiences sexual attraction,
 * everyone wants or likes sex,

@@ -2,7 +2,7 @@
 **Updated: 2020-12-04**
 
 ***
-Please read our [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_medical_disclaimer.md) before reading this section of the FAQ.
+Please read our [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_medical_disclaimer) before reading this section of the FAQ.
 
 ***
 ## Should I get a hysterectomy as part of my transition?
@@ -57,7 +57,7 @@ You also decide what method of surgery you want done. Not all surgeons offer all
 ***
 ## What is the recovery like for hysterectomy?
 
-The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_medical_disclaimer.md).
+The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_medical_disclaimer).
 
 Hysterectomy is usually performed as an outpatient procedure, where you go home the same day. Some surgeons will have you stay in the hospital overnight for monitoring. To reduce the risk of postoperative complications, it is important to follow your surgeon’s directions and communicate with them if you have any questions or concerns. The hysterectomy procedure involves working in the abdominal cavity where many other organs reside, namely the bladder and intestines. The most common postoperative complications are to do with the bowel and bladder, or infection in the abdominal cavity. During your recovery it is important not to strain your body, and especially important not to use your abdominal muscles whenever possible. Refrain from lifting and prolonged standing. Use your arms to lift yourself out of bed instead of your abs. When returning to school or work, consider getting a rolling backpack so you don’t need to carry things.
 

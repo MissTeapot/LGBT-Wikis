@@ -274,7 +274,7 @@ Surgeons sites
 
 https://www.mtfsurgery.net/surgeons/dr-heidi-wittenberg.htm - *Dr. Wittenberg offers Gender Reassignment Surgery with a number of possible variations. For example, a traditional Penile Inversion Vaginoplasty includes bilateral Orchiectomy, Penectomy with preservation of glans and shaft skin, and penile inversion often with a secondary scrotal graft. For non-binary individuals, Dr. Wittenberg can perform nullification with stand-alone Orchiectomy and/or Penectomy. Dr. Wittenberg can also preserve the penis, if desired, and perform Orchiectomy and Vaginoplasty using scrotal and groin or abdominal skin.*
 
-See also the entry on [Brownstein &amp; Crane](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa#wiki_brownstein_.26amp.3b_crane.md), where [Wittenberg used to work](https://www.mozaiccare.net/cv).
+See also the entry on [Brownstein &amp; Crane](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa.md#wiki_brownstein_.26amp.3B_crane), where [Wittenberg used to work](https://www.mozaiccare.net/cv).
 
 **Photo links**
 
@@ -1150,7 +1150,7 @@ huffingtonpost
 
 Legal
 
-* There's a "Maurice Garcia, M.D." acting as a Defense counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is defending [Dr Kathy Rumer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa#wiki_kathy_lynn_rumer.md)). I don't know if this is the same doctor, however I'm not aware of any other SRS surgeons by this name and the Plaintiff's counsel is "Jess Ting, M.D." who is a well known SRS surgeon. For more on this see the wiki page discussing hair pre/post-op hair removal [here](https://www.reddit.com/r/TransWiki/wiki/hair-removal#wiki_a_surgeons_point_of_view).
+* There's a "Maurice Garcia, M.D." acting as a Defense counsel in the lawsuit [THOMPSON v. RUMER](https://www.courtlistener.com/docket/7820076/22/thompson-v-rumer/) filed Feb 1, 2020 (i.e. he is defending [Dr Kathy Rumer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/usa.md#wiki_kathy_lynn_rumer)). I don't know if this is the same doctor, however I'm not aware of any other SRS surgeons by this name and the Plaintiff's counsel is "Jess Ting, M.D." who is a well known SRS surgeon. For more on this see the wiki page discussing hair pre/post-op hair removal [here](https://www.reddit.com/r/TransWiki/wiki/hair-removal#wiki_a_surgeons_point_of_view).
 
 
 &amp;nbsp;

@@ -2233,7 +2233,7 @@ Legal
 *****
 ### Florida
 
-Note that many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/introduction#wiki_florida.md) to see what this means.
+Note that many doctors in Florida do not carry malpractice insurance. See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/srs/introduction.md#wiki_florida) to see what this means.
 
 
 

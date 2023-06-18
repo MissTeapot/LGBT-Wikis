@@ -2,7 +2,7 @@
 **Updated: 2020-12-04**
 
 ***
-Please read our [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_medical_disclaimer.md) before reading this section of the FAQ.
+Please read our [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_medical_disclaimer) before reading this section of the FAQ.
 
 ***
 ## What are the different types of top surgery available?
@@ -103,7 +103,7 @@ Top surgery is usually done on an out-patient basis, where you go home the same 
 ***
 ### How long after surgery do I need to rest before getting back to my activities?
 
-The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_medical_disclaimer.md).
+The authors of this FAQ are not medical professionals and the following is not medical advice. See our full [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_medical_disclaimer).
 
 The following is a rough guide to post-op recovery, assuming you don’t experience postoperative complications.  Always listen to your body and discuss your return to activity with your surgeon. 
 

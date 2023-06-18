@@ -44,7 +44,7 @@ Some forms of physiological arousal can also occur as a response to non-sexual a
 ### See also
 
 * [What's the difference between sexual attraction and arousal?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/whats_the_difference_between_sexual_attraction_and_arousal.md)
-* [Experiences: arousal](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences#wiki_arousal.md)
+* [Experiences: arousal](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences.md#wiki_arousal)
 
 ### References
 

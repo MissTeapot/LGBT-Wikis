@@ -122,7 +122,7 @@ Challenging these assumptions helps everyone – asexual, non-asexual, and peopl
 
 ## Footnotes
 
-^1 For further information on the prevalence of asexuality see [Demographics: Prevalence](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/demographics#wiki_prevalence.md). Briefly: the 1% figure includes only 'strict' asexuals – for this and other reasons it's likely to be an underestimate of the actual rate of asexuality. The 4% figure includes anyone between 'strictly' asexual and non-asexual.
+^1 For further information on the prevalence of asexuality see [Demographics: Prevalence](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/demographics.md#wiki_prevalence). Briefly: the 1% figure includes only 'strict' asexuals – for this and other reasons it's likely to be an underestimate of the actual rate of asexuality. The 4% figure includes anyone between 'strictly' asexual and non-asexual.
 
 ^2 For example, the model makes no distinction between sexual, romantic, and other forms of attraction. It also doesn't make a distinction between sexual attraction and arousal, or between behaviour and orientation. These distinctions come into sharp focus when discussing asexuality.
 

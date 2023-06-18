@@ -22,8 +22,8 @@ At the end of the day, it's best to accept that you can't always understand the 
 ### See also
 
 * [Am I aromantic?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/am_i_aro.md)
-* [The a-spectra: Romantic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md)
-* [Experiences: Romantic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences#wiki_romantic_attraction.md)
+* [The a-spectra: Romantic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_romantic_attraction)
+* [Experiences: Romantic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/experiences.md#wiki_romantic_attraction)
 
 ### References
 

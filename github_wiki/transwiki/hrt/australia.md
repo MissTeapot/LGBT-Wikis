@@ -274,7 +274,7 @@ You may also come across the synthetic progesterone [Medroxyprogesterone Acetate
 *****
 # Informed Consent
 
-Some doctors now now follow the [informed consent](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index#wiki_informed_consent.md) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
+Some doctors now now follow the [informed consent](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transsurgerieswiki/index.md#wiki_informed_consent) model, meaning you can get HRT prescribed just like anyone else can get medical care. No psych.
 
 You may be asked to sign one or more multi-page documents informing you of the risks of what you are doing.
 
@@ -311,7 +311,7 @@ Private Blood Testing
 *****
 # DIY
 
-A few people buy their HRT online without using a doctor. See the [main HRT page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt#wiki_diy.md) for more.
+A few people buy their HRT online without using a doctor. See the [main HRT page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt.md#wiki_diy) for more.
 
 reddit
 

@@ -32,7 +32,7 @@ For binding a large chest, [Neutrois Nonsense](http://neutrois.me/2013/03/27/all
 * [Athletic compression shirts](http://www.undershirtguy.com/wp-content/uploads/2014/05/omsignal-biometric-smartwear-black-crew-neck-compression-shirt.jpg) can be effective for small chests or for when you don’t need to be perfectly flat. The higher the percentage of Spandex or Lycra, the better. 
 * A [camisole](http://tomstoast.tumblr.com/post/71729865251/hey-there-frends-i-know-a-lot-of-you-out-there) can be used to bind. Probably won't work well for larger chests, but you can pick camisoles up for ~$4 at Walmart and other big box stores so they're a very cheap and relatively safe alternative. 
 * [Puffy vests](http://3.bp.blogspot.com/-aCqu3u9gixY/UQXTqeBQb4I/AAAAAAAABa8/k4BGDzwwJAI/s400/lands-end-vest.jpg), baggy hoodies, and other clothing that fills space can disguise the chest.
-* See [Passing and Presentation](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_passing_and_presentation.md) for tips on dressing to conceal your chest.
+* See [Passing and Presentation](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_passing_and_presentation) for tips on dressing to conceal your chest.
 
 ***
 ### Binding for swimming or exercising?

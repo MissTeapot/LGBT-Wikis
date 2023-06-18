@@ -79,7 +79,7 @@ Below are a few tips for being direct when you communicate.
 As well as being direct, here are some tips for making your communication clear and understandable.
 
 * Ask yourself if you tone and body language align with the content of what you're saying. For example, saying "that's great" in a very dismissive tone is likely to confuse the listener.
-* Distinguish between your observations and thoughts. (See [*Complete messages*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/relationships#wiki_complete_messages.md).)
+* Distinguish between your observations and thoughts. (See [*Complete messages*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/relationships.md#wiki_complete_messages).)
 * Focus on one thing at a time.
 
 **Be supportive**

@@ -1,7 +1,7 @@
 # Bottom Surgery
 
 ***
-Please read our [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_medical_disclaimer.md) before reading this section of the FAQ.
+Please read our [Medical Disclaimer](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index.md#wiki_medical_disclaimer) before reading this section of the FAQ.
 
 ***
 ## What are the different types of bottom surgery?

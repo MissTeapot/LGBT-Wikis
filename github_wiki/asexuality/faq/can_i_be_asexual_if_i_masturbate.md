@@ -12,7 +12,7 @@ Asexuals may masturbate for any of a number of reasons. Examples include the fol
 
 * They may have a libido – that is an urge for sexual activity (with or without partners). Masturbation may therefore provide relief from such urges.
 * They may enjoy it. Despite not feeling sexual attraction, asexuals typically still have normal anatomy, meaning that they may enjoy the physical sensations that sexual activity (including masturbation) can create. Asexuals that enjoy or seek out such experiences may have sex with others or masturbate or both.
-* They may be [aegosexual](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality#wiki_aegosexuality.md) – meaning that they can experience arousal in response to certain triggers, but without any sexual attraction present.
+* They may be [aegosexual](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality.md#wiki_aegosexuality) – meaning that they can experience arousal in response to certain triggers, but without any sexual attraction present.
 
 Asexuals are defined by lacking sexual attraction towards others. That is, they do not find other people to be physically attractive and/or the prospect of having sex with others is not compelling for them. It doesn't mean that they are incapable of arousal or unable to enjoy genital stimulation.
 
@@ -26,8 +26,8 @@ One study has been conducted looking into the relationship between asexuals and 
 
 ### See also
 
-* [*Grey-asexuality: Aegosexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality#wiki_aegosexuality.md)
-* [*The a-spectra: Libido and arousal*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_libido_and_arousal.md)
+* [*Grey-asexuality: Aegosexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality.md#wiki_aegosexuality)
+* [*The a-spectra: Libido and arousal*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra.md#wiki_libido_and_arousal)
 
 ### References
 

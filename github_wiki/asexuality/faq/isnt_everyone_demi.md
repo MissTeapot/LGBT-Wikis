@@ -10,5 +10,5 @@ Asexuality and demisexuality are alike in that, the vast majority of the time, n
 
 ### See also
 
-* [Grey-asexuality: demisexuality](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality#wiki_demisexuality.md)
+* [Grey-asexuality: demisexuality](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality.md#wiki_demisexuality)
 * [Why do asexual people need to label themselves?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/why_do_asexuals_need_labels.md)
