@@ -109,7 +109,7 @@ Doctors doing HRT
 * Michelle Dutton
 * Probably more, but I don't know who
 
-Monash prescribe Ethinyl Estradiol (that's bad, see the [HRT page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt.md)
+Monash prescribe Ethinyl Estradiol (that's bad, see the [HRT page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt).md)
 
 * [MTF HRT Microgynon 50 ED](https://www.reddit.com/r/asktransgender/comments/3y5qh7/mtf_hrt_microgynon_50_ed/) in 2016 - *"I'm 18, mtf and very confused about the medication that I've been prescribed."*
 * reply to [How long will it take to get HRT in Australia?](https://www.reddit.com/r/asktransgender/comments/5795mb/how_long_will_it_take_to_get_hrt_in_australia/d8q2nfx/) by Serenation in 2016 - *"birth control pills were the main hrt prescribed for mtf in Australia because that's what Monash did and they were the biggest gender clinic in Australia, they use microgynon 50 to be exact."*
@@ -183,7 +183,7 @@ Key details
 * https://equinox.org.au/
 * 175 Rose Street, Fitzroy, VIC.
 
-Prescribe Microgynon 30/50, containing [Ethinyl Estradiol](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt#wiki_ethinyl_estradiol.md) (bad and Premarin (also bad.
+Prescribe Microgynon 30/50, containing [Ethinyl Estradiol](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt#wiki_ethinyl_estradiol) (bad) and Premarin (also bad.md).
 
 * https://equinox.org.au/resources/
 * June 2019 [Equinox Prescribing Guide for GPs](https://thorneharbour.org/documents/356/hrt-prescribing-guide-for-gps-june-2019-1.pdf) pdf

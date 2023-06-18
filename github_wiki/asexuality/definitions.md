@@ -37,7 +37,7 @@ Terms like those below also create the conditions for greater awareness, and con
     1. *adj.* Of or relating to aegosexuality.
     2. *n.* A person whose sexual orientation is aegosexuality.
 
-* **aegosexuality** (also called **autochorissexuality** or **anegosexuality**(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/: *n.* A subset of asexuality defined as a disconnection between oneself and a sexual target/object of arousal. See [*Grey asexuality: Aegosexuality*].md)asexuality/grey-asexuality#wiki_aegosexuality.
+* **aegosexuality** (also called **autochorissexuality** or **anegosexuality**): *n.* A subset of asexuality defined as a disconnection between oneself and a sexual target/object of arousal. See [*Grey asexuality: Aegosexuality*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality#wiki_aegosexuality.md).
 
 * **aesthetic attraction**: *n.* An urge to observe, be close to, be sensual with, or have a relationship with a specific person based on their physical appearance. Usually the term implies a lack of sexual or romantic attraction to that person. See [*The a-spectra: Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sensual_and_aesthetic_attraction.md).
 
@@ -215,7 +215,7 @@ Terms like those below also create the conditions for greater awareness, and con
     1. *adj.* Of or relating to pan-romanticism.
     2. *n.* A person whose romantic orientation is pan-romantic.
 
-* **pan-romanticism** (also called **poly-romanticism**(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/: *n.* A romantic orientation where a person experiences romantic attraction to any and all genders. See [*The a-spectra: Romantic attraction*].md)asexuality/the_spectra#wiki_romantic_attraction.
+* **pan-romanticism** (also called **poly-romanticism**): *n.* A romantic orientation where a person experiences romantic attraction to any and all genders. See [*The a-spectra: Romantic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md).
 
 * **perioriented**: *adj.* Refers to someone whose romantic and sexual orientations are the same. For example, a heteroromantic heterosexual, or an aromantic asexual.
 
@@ -233,7 +233,7 @@ Terms like those below also create the conditions for greater awareness, and con
 
 * **quaziplatonic** (also called **quazi platonic**): *adj.* An alternative term for *queer platonic*. Though less common than *queer platonic*, *quaziplatonic* is sometimes preferred because it avoids use of the term *queer*, which can be seen as offensive.
 
-* **queer platonic relationship** (also called **queer platonic partnership**. May also be spelled **queerplatonic**(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/: *n.* An intimate relationship that is the same as a standard relationship but without the romance and sex. See [*The a-spectra: Platonic and alterous attraction*].md)asexuality/the_spectra#wiki_platonic_and_alterous_attraction.
+* **queer platonic relationship** (also called **queer platonic partnership**. May also be spelled **queerplatonic**): *n.* An intimate relationship that is the same as a standard relationship but without the romance and sex. See [*The a-spectra: Platonic and alterous attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_platonic_and_alterous_attraction.md).
 
 * **quoisexual** (also called **quoiromantic**, **WTFsexual**, **WTFromantic**): *adj.* Refers to a person who is unsure or confused about if or what kind of attraction they feel. The -sexual/-romantic versions may be used to indicate which kind of orientation is found confusing.
 

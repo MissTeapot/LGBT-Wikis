@@ -4,7 +4,7 @@
 
 -----
 
-This page discusses a conceptual framework for discussing asexuality, precisely defines important terms in the asexuality community, and is intended help those questioning understand whether they are asexual or not. For a more introductory look at asexuality see [What is asexulaity?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality.md). If after reading this page you are unsure if you are asexual or not, you may find [*How do I know if I'm asexual?*]asexuality/faq/how_do_i_know helpful.
+This page discusses a conceptual framework for discussing asexuality, precisely defines important terms in the asexuality community, and is intended help those questioning understand whether they are asexual or not. For a more introductory look at asexuality see [What is asexulaity?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality). If after reading this page you are unsure if you are asexual or not, you may find [*How do I know if I'm asexual?*](w/asexuality/faq/how_do_i_know.md) helpful.
 
 Human sexual behaviour, physiology, and psychology is composed of several distinct  (though strongly related) mechanisms that are usually lumped together – for example, sexual attraction, sex drive, and romantic attraction. When it comes to asexuality, it can be instructive to tease these components apart and consider them separately. In the asexuality community, these different components are called *spectra*, where a person's place on each spectrum describes how often or in what way they experience that kind of attraction. This page details the main spectra that are discussed in relation to asexuality.
 
@@ -49,7 +49,7 @@ All of these aspects that distinguish between the targeted urge (craving) and th
 
 #### Demographics
 
-Sexual attraction falls on a spectrum. Some people experience sexual attraction often or usually (allosexuals(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/, and some people don't experience sexual attraction at all (asexuals.md). Lots of people also fall somewhere in the middle: they may only experience attraction rarely or under specific circumstances. These intermediate sexualities – for example demisexuality – are usually classed under the asexuality umbrella as grey-asexualities. For more information on grey-asexualities see [this page]asexuality/grey-asexuality.
+Sexual attraction falls on a spectrum. Some people experience sexual attraction often or usually (allosexuals), and some people don't experience sexual attraction at all (asexuals). Lots of people also fall somewhere in the middle: they may only experience attraction rarely or under specific circumstances. These intermediate sexualities – for example demisexuality – are usually classed under the asexuality umbrella as grey-asexualities. For more information on grey-asexualities see [this page](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality.md).
 
 According to the 2016 Asexual Community Survey [2, p.6], most people who identify as on the asexual-spectrum most closely identify as only asexual (and not any grey-asexuality). The breakdown is as follows:
 
@@ -67,7 +67,7 @@ If you found the above explanation confusing, you may like to read [this page](h
 
 #### Related FAQs
 
-[Am I asexual?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/how_do_i_know.md) • [What's the difference between sexual and romantic attraction?]asexuality/faq/whats_the_difference_between_sexual_and_romantic_attraction • [What's the difference between sexual attraction and arousal?]asexuality/faq/whats_the_difference_between_sexual_attraction_and_arousal • [Is asexuality really a sexual orientation?]asexuality/faq/is_asexuality_an_orientation • [Is the definition of sexual attraction what aces say it is?]asexuality/faq/is_that_what_sexual_attraction_is • [Can someone become asexual? / can sexuality change?]asexuality/faq/can_someone_become_asexual • [How common is asexuality? What about men vs. women?]asexuality/faq/prevalence_of_asexuality • [Are all women asexual?]asexuality/faq/are_all_women_ace
+[Am I asexual?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/how_do_i_know) • [What's the difference between sexual and romantic attraction?](w/asexuality/faq/whats_the_difference_between_sexual_and_romantic_attraction) • [What's the difference between sexual attraction and arousal?](w/asexuality/faq/whats_the_difference_between_sexual_attraction_and_arousal) • [Is asexuality really a sexual orientation?](w/asexuality/faq/is_asexuality_an_orientation) • [Is the definition of sexual attraction what aces say it is?](w/asexuality/faq/is_that_what_sexual_attraction_is) • [Can someone become asexual? / can sexuality change?](w/asexuality/faq/can_someone_become_asexual) • [How common is asexuality? What about men vs. women?](w/asexuality/faq/prevalence_of_asexuality) • [Are all women asexual?](w/asexuality/faq/are_all_women_ace.md)
 
 ### Romantic attraction
 Romantic orientation refers to the gender(s) with which a person is most likely to have a romantic relationship or fall in love. For example, although a bisexual person may feel sexually attracted to men and women, they may be predisposed to romantic intimacy with females.
@@ -85,7 +85,7 @@ Romantic love is a significantly harder concept to pin down than sexual attracti
 * Enhanced fear: if you don't know the other person well you may be afraid of doing things wrong, or that they don't feel the same way.
 * A feeling that the love can somehow transcend space, time, or death.
 * A conviction that the feeling is good, right, and noble.
-* Sensual attraction (see [*Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality#wiki_sensual_and_aesthetic_attraction.md).
+* Sensual attraction (see [*Sensual and aesthetic attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality#wiki_sensual_and_aesthetic_attraction).md).
 
 When considered biologically there's no one defining feature that makes a feeling (or group of feelings) for another person 'love' and not 'liking'. The two emotions – as well as their physiological aspects – differ in degree rather than kind, both being associated with general pro-social and bonding hormones.
 
@@ -125,14 +125,14 @@ You can also find some personal accounts of what romantic love feels like [here]
 
 #### Related FAQs
 
-[Am I aromantic?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/am_i_aro.md) • [Can I be asexual if I have romantic feelings?]asexuality/faq/can_i_be_asexual_if_i_have_romantic_feelings • [Do asexual people like kissing?]asexuality/faq/do_asexuals_kiss • [Can I be asexual and gay / lesbian?]asexuality/faq/can_i_be_asexual_and_gay • [What's the difference between sexual and romantic attraction?]asexuality/faq/whats_the_difference_between_sexual_and_romantic_attraction • [What's the difference between a QPR and a romantic (non-sexual relationship?]asexuality/faq/whats_the_difference_between_a_QPR_and_a_relationship • [How can I convince my partner I still love them?]asexuality/faq/how_can_i_convince_them_i_love_them • [My partner is asexual. Should we break up?]asexuality/faq/should_we_break_up • [What is love?]asexuality/faq/what_is_love
+[Am I aromantic?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/am_i_aro) • [Can I be asexual if I have romantic feelings?](w/asexuality/faq/can_i_be_asexual_if_i_have_romantic_feelings) • [Do asexual people like kissing?](w/asexuality/faq/do_asexuals_kiss) • [Can I be asexual and gay / lesbian?](w/asexuality/faq/can_i_be_asexual_and_gay) • [What's the difference between sexual and romantic attraction?](w/asexuality/faq/whats_the_difference_between_sexual_and_romantic_attraction) • [What's the difference between a QPR and a romantic (non-sexual) relationship?](w/asexuality/faq/whats_the_difference_between_a_QPR_and_a_relationship) • [How can I convince my partner I still love them?](w/asexuality/faq/how_can_i_convince_them_i_love_them) • [My partner is asexual. Should we break up?](w/asexuality/faq/should_we_break_up) • [What is love?](w/asexuality/faq/what_is_love.md)
 
 ### Libido and arousal
 Libido and arousal are terms that talk about urges or bodily changes without making reference to the cause or target. They are distinct concepts, both from each other and from sexual attraction.
 
-Arousal has two components: psychological and physiological. Physiological arousal refers to bodily changes such as an erection or increased heart-rate. Psychological arousal refers to a general urge to engage in sexual activities such as sex or masturbation (which is distinct from sexual attraction as described in [*Sexual attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality#wiki_sexual_attraction.md). It is possible to physiologically aroused without being psychologically aroused. For example, it's not uncommon for male rape victims to experience erections or ejaculation, which can be both confusing and shame-inducing. For more details on the physiological aspects of arousal see the FAQ [*What does arousal feel like?*]asexuality/faq/what_does_arousal_feel_like.
+Arousal has two components: psychological and physiological. Physiological arousal refers to bodily changes such as an erection or increased heart-rate. Psychological arousal refers to a general urge to engage in sexual activities such as sex or masturbation (which is distinct from sexual attraction as described in [*Sexual attraction*](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/what_is_asexuality#wiki_sexual_attraction)). It is possible to physiologically aroused without being psychologically aroused. For example, it's not uncommon for male rape victims to experience erections or ejaculation, which can be both confusing and shame-inducing. For more details on the physiological aspects of arousal see the FAQ [*What does arousal feel like?*](w/asexuality/faq/what_does_arousal_feel_like.md).
 
-Libido refers to a person's general pattern of (psychological(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ arousal. A person may be often aroused (high libido.md), rarely aroused (low libido, or never aroused at all (no libido. Some asexuals may become psychologically aroused in response to erotica/pornography/concepts/etc., but with no desire to be a participant in the sexual activities therein. For more information see the wiki page [Grey-asexuality: aegosexuality]asexuality/grey-asexuality#wiki_aegosexuality.
+Libido refers to a person's general pattern of (psychological) arousal. A person may be often aroused (high libido), rarely aroused (low libido), or never aroused at all (no libido). Some asexuals may become psychologically aroused in response to erotica/pornography/concepts/etc., but with no desire to be a participant in the sexual activities therein. For more information see the wiki page [Grey-asexuality: aegosexuality](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/grey-asexuality#wiki_aegosexuality.md).
 
 #### Analogy
 
@@ -148,7 +148,7 @@ Asexuals typically report much lower libidos than allosexuals: according to the 
 
 #### Related FAQs
 
-[Can I be asexual if I masturbate?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/can_i_be_asexual_if_i_masturbate.md) •  [Can I be asexual if I get erections?]asexuality/faq/can_i_be_asexual_if_i_get_erections • [Do asexual people masturbate?]asexuality/faq/can_i_be_asexual_if_i_masturbate • [What's the difference between HSDD and asexuality?]asexuality/faq/whats_the_difference_between_hsdd_and_asexuality
+[Can I be asexual if I masturbate?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/can_i_be_asexual_if_i_masturbate) •  [Can I be asexual if I get erections?](w/asexuality/faq/can_i_be_asexual_if_i_get_erections) • [Do asexual people masturbate?](w/asexuality/faq/can_i_be_asexual_if_i_masturbate) • [What's the difference between HSDD and asexuality?](w/asexuality/faq/whats_the_difference_between_hsdd_and_asexuality.md)
 
 ### Sensual and aesthetic attraction
 
@@ -196,7 +196,7 @@ Although asexuals can fall anywhere on the repulsion–favourability spectrum, t
 
 #### Related FAQs
 
-[Do I need to try sex before I decide if I'm asexual or not?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/do_i_need_to_try_sex.md) • [What's the difference between sexual attraction and arousal?]asexuality/faq/whats_the_difference_between_sexual_attraction_and_arousal • [Do asexual people have sex?]asexuality/faq/do_asexuals_have_sex • [Why do asexual people have sex?]asexuality/faq/why_do_asexuals_have_sex • [How can you like sex and be asexual at the same time?]asexuality/create/faq/how_can_aces_like_sex
+[Do I need to try sex before I decide if I'm asexual or not?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/do_i_need_to_try_sex) • [What's the difference between sexual attraction and arousal?](w/asexuality/faq/whats_the_difference_between_sexual_attraction_and_arousal) • [Do asexual people have sex?](w/asexuality/faq/do_asexuals_have_sex) • [Why do asexual people have sex?](w/asexuality/faq/why_do_asexuals_have_sex) • [How can you like sex and be asexual at the same time?](w/asexuality/create/faq/how_can_aces_like_sex.md)
 
 ### Sex-positivity and -negativity
 
@@ -223,7 +223,7 @@ According to the 2016 Asexual Community Survey [2, p.21], around 70% of asexuals
 
 #### Related FAQs
 
-[What's the difference between a QPR and a romantic (non-sexual(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ relationship?].md)asexuality/faq/whats_the_difference_between_a_QPR_and_a_relationship • [How can you have a relationship without sex?]asexuality/faq/how_can_you_have_a_relationship_without_sex • [Why is sex a deal-breaker for many people in relationships?]asexuality/faq/why_is_sex_a_dealbreaker
+[What's the difference between a QPR and a romantic (non-sexual) relationship?](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/whats_the_difference_between_a_QPR_and_a_relationship) • [How can you have a relationship without sex?](w/asexuality/faq/how_can_you_have_a_relationship_without_sex) • [Why is sex a deal-breaker for many people in relationships?](w/asexuality/faq/why_is_sex_a_dealbreaker.md)
 
 ## Footnotes
 
@@ -231,6 +231,6 @@ According to the 2016 Asexual Community Survey [2, p.21], around 70% of asexuals
 
 ## References
 
-[1]: Quote from Dr. Michael Yates, a clinical psychologist specialising in sexual health [[link]](https://news.sky.com/story/asexuality-explained-sky-data-poll-shows-widespread-lack-of-understanding-11626697(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/: "Sexual attraction is a motivation to engage in sexual activities with another person. It is possible to still have a sexual drive, but for that not to be directed at another person." More information is available on the FAQ page [here].md)asexuality/faq/is_that_what_sexual_attraction_is.
+[1]: Quote from Dr. Michael Yates, a clinical psychologist specialising in sexual health [[link]](https://news.sky.com/story/asexuality-explained-sky-data-poll-shows-widespread-lack-of-understanding-11626697): "Sexual attraction is a motivation to engage in sexual activities with another person. It is possible to still have a sexual drive, but for that not to be directed at another person." More information is available on the FAQ page [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/faq/is_that_what_sexual_attraction_is.md).
 
 [2]: Caroline Bauer *et al* (2018). [*2016 Asexual Community Survey Summary Report*](https://asexualcensus.files.wordpress.com/2018/11/2016_ace_community_survey_report.pdf). Asexual Community Survey Team.

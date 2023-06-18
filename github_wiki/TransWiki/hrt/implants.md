@@ -194,7 +194,7 @@ See the wiki entry on [lidocaine inejections](https://github.com/MissTeapot/LGBT
 *****
 # Tachyphylaxis
 
-Doctors may warn you about tachyphylaxis when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ rather than when your levels are actually low (using blood tests.md). [Read more...]TransWiki/hrt/tachyphylaxis
+Doctors may warn you about tachyphylaxis when using implants. Its essentially a tolerance to estrogen, where you experience symptoms of low estrogen levels while actually having very high levels. Its easily avoided with the correct protocol and occurs if you get new implants based on symptoms (ie when you feel bad) rather than when your levels are actually low (using blood tests). [Read more...](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/tachyphylaxis.md)
 
 
 
@@ -243,7 +243,7 @@ reddit
 *****
 # Testosterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/jon-hayes.md) has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher. These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
+Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/jon-hayes) has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher.md). These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
 
 Note that testosterone implants don't last as long as estrogen, so there's likely to be a shortfall in levels before the estrogen implant needs renewing.
 
@@ -273,7 +273,7 @@ Very bad experience using testopel - https://k-con.today/post/172598026877/whats
 *****
 # Progesterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/jon-hayes.md) has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point.
+Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/jon-hayes) has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point.md).
 
 reddit
 
@@ -792,7 +792,7 @@ reddit
 
 ## Australia
 
-There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology].md)TransWiki/hrt/implants#wiki_implant_technology.
+There are two main manufacturers of estrogen implants in Australia, Complementary Compounding Services (CCS) in Ballina and Stenlake in Sydney, plus a couple of others. CCS do make both 3mm and 4.5mm implants, and while Stenlake are known of the 4.5mm implants I believe they can also make the 3mm implants. The reason for either size are discussed above in [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implants#wiki_implant_technology.md).
 
 * https://custommedicine.com.au/
 * https://www.stenlake.com.au/

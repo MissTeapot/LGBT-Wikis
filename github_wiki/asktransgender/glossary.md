@@ -172,4 +172,4 @@ deepening of the voice, increased body hair growth, and increased muscle develop
 
 #### [*Did we miss anything?* This glossary will never be complete! Submit a term here.](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender)
 
-[Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index.md) | [Rules]asktransgender/rules | [FAQ]asktransgender/faq | [Glossary]asktransgender/glossary | [Links]asktransgender/linked | [Contribute]asktransgender/contribute | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender
+[Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index) | [Rules](w/asktransgender/rules) | [FAQ](w/asktransgender/faq) | [Glossary](w/asktransgender/glossary) | [Links](w/asktransgender/linked) | [Contribute](w/asktransgender/contribute) | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender.md)

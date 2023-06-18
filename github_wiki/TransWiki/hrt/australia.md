@@ -211,7 +211,7 @@ Personally I'd try to avoid doctors who do not prescribe implants even if I didn
 *****
 # Estrogen Injections
 
-Estrogen injections are not common in Australia, but can be sourced from some [Compounding Pharmacies in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/compounding-pharmacies/australia.md) (with a doctors prescription.
+Estrogen injections are not common in Australia, but can be sourced from some [Compounding Pharmacies in Australia](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/compounding-pharmacies/australia) (with a doctors prescription.md).
 
 Syringes and needles are available without prescription in Australia. You should be able to get them from a pharmacy, but there's also online medical suppliers where you can order them. I can't speak from personal experience, but you could look at
 

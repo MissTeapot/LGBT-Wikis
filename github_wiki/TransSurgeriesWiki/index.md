@@ -49,9 +49,9 @@ I'm not and never have been in any medical field. My work is far removed from th
 *****
 # Male to Female (MTF) Surgery
 
-* [Sex Reassignment Surgery \(SRS\(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/].md)TransSurgeriesWiki/srs/introduction
-* [Facial Feminization Surgeons \(FFS\(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/].md)TransSurgeriesWiki/ffs/introduction
-* [Voice Feminization Surgery \(VFS\(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/].md)TransSurgeriesWiki/vfs/introduction
+* [Sex Reassignment Surgery \(SRS\)](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/srs/introduction.md)
+* [Facial Feminization Surgeons \(FFS\)](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/ffs/introduction.md)
+* [Voice Feminization Surgery \(VFS\)](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/vfs/introduction.md)
 * [Breasts](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/breasts/introduction.md)
 * [Hips &amp; Butt](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/hips-butt/introduction.md)
 * [Hair transplant](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/hair-transplant/introduction.md)
@@ -524,7 +524,7 @@ Papers
 
 This discussion ignores money/insurance requirements.
 
-Most surgeons follow the [WPATH Standards of Care](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/index#wiki_wpath_standards_of_care.md) and it is very difficult to get genital surgery without being on HRT and socially transitioned for at least 12 months (some of this has changed with the new [SOC 8](https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published/. Two psychiatrist letters are also required by WPATH rules. It is possible to get SRS without social transition, but probably not worth the effort if you intend to transition anytime soon. Getting SRS without HRT is more difficult, but can be done in some circumstances - if you do that you will need to go on either estrogen or testosterone afterwards to prevent serious medical problems occurring.
+Most surgeons follow the [WPATH Standards of Care](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/index#wiki_wpath_standards_of_care) and it is very difficult to get genital surgery without being on HRT and socially transitioned for at least 12 months (some of this has changed with the new [SOC 8](https://www.reddit.com/r/Transgender_Surgeries/comments/xfanwx/wpath_standards_of_care_version_8_published/).md). Two psychiatrist letters are also required by WPATH rules. It is possible to get SRS without social transition, but probably not worth the effort if you intend to transition anytime soon. Getting SRS without HRT is more difficult, but can be done in some circumstances - if you do that you will need to go on either estrogen or testosterone afterwards to prevent serious medical problems occurring.
 
 After SRS you have to dilate regularly, so it may be best to leave a (long) gap before other surgeries that could interfere with that schedule. Genital hair removal for SRS should be started at least a year prior to surgery, and probably more. It needs to remain clear for the entire hair growth cycle to be sure its all gone. Any remaining hair may be impossible to remove post-op. There's little research on this, but I would think electrolsys is safer option than laser for genital hair - for face it doesn't matter much of some grows back. Surgeons should be able to provide you with a drawing of the area that needs hair removal. If you remove all the hair then you won't be able to hide surgical scars post-op, should you have them. If the the surgeon says you don't need hair removal for penile inversion becaue they do it during surgery, its not true - it's not guarenteed and you are at risk if internal hair.  Its more correct to say that they don't need it, but you do (ie its your problem not theirs).
 

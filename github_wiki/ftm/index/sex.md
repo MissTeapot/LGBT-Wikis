@@ -9,7 +9,7 @@ If you're a trans man who has sex with men, check out this sexual health guide: 
 ***
 ## Can I use packers for sex?
 
-Only use packers that have been specifically designed for ‘pack and play’ (see [Packing](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_packing.md). Always use a condom over the packer. This is because you’ve either used corn starch to stop it from sticking, or you’ve not used corn starch and that can make the packer collect dirt. Using a condom blocks the transfer to your partner of anything that may be stuck to the packer, and this lowers the risk of infection. It also ensures that the packer doesn’t absorb anything.
+Only use packers that have been specifically designed for ‘pack and play’ (see [Packing](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ftm/index#wiki_packing).md). Always use a condom over the packer. This is because you’ve either used corn starch to stop it from sticking, or you’ve not used corn starch and that can make the packer collect dirt. Using a condom blocks the transfer to your partner of anything that may be stuck to the packer, and this lowers the risk of infection. It also ensures that the packer doesn’t absorb anything.
 
 ***
 ## How and when can I disclose my trans identity to potential sexual partners?

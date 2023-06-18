@@ -49,7 +49,7 @@ Dr Hayes started practicing again in 2021.
 &amp;nbsp;
 **Estrogen Implants**
 
-Unlike Dr Hayes our current doctors are extremely reluctant to prescribe 200mg implants, and its not clear who does (see Dr Michelle Guttman-Jones(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/. If they do then it would be on a case by case basis and if you hear of someone getting them it doesn't mean you will. There's some further information on implants [here].md)TransWiki/hrt/implants.
+Unlike Dr Hayes our current doctors are extremely reluctant to prescribe 200mg implants, and its not clear who does (see Dr Michelle Guttman-Jones). If they do then it would be on a case by case basis and if you hear of someone getting them it doesn't mean you will. There's some further information on implants [here](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implants.md).
  
 Some of the doctors on the transhub list say
 

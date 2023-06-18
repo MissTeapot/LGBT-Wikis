@@ -18,4 +18,4 @@ Welcome to the /r/asktransgender wiki
 # [Linked &amp; related subreddits](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/linked.md)
 # [Sticky Archive](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/stickyarchive.md)
 
-[Stats](http://redditmetrics.com/r/asktransgender(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ | [Rules].md)asktransgender/rules | [FAQ]asktransgender/faq | [Suicide Resources]asktransgender/suicide_resources | [Glossary]asktransgender/glossary | [Links]asktransgender/linked | [Contribute]asktransgender/contribute | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender
+[Stats](http://redditmetrics.com/r/asktransgender) | [Rules](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/rules) | [FAQ](w/asktransgender/faq) | [Suicide Resources](w/asktransgender/suicide_resources) | [Glossary](w/asktransgender/glossary) | [Links](w/asktransgender/linked) | [Contribute](w/asktransgender/contribute) | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender.md)

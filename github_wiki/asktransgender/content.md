@@ -1,4 +1,4 @@
-[**Rules**](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/rules.md) | [Index]asktransgender/index
+[**Rules**](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/rules) | [Index](w/asktransgender/index.md)
 
 General participation guidelines
 ---
@@ -43,4 +43,4 @@ Medical Advice
 
 ---
 
-[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/content.md) | [Index]asktransgender/index | [Rules]asktransgender/rules | [FAQ]asktransgender/faq | [Glossary]asktransgender/glossary | [Links]asktransgender/linked | [Contribute]asktransgender/contribute | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender
+[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/content) | [Index](w/asktransgender/index) | [Rules](w/asktransgender/rules) | [FAQ](w/asktransgender/faq) | [Glossary](w/asktransgender/glossary) | [Links](w/asktransgender/linked) | [Contribute](w/asktransgender/contribute) | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender.md)

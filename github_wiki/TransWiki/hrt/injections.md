@@ -192,7 +192,7 @@ Ideally you want to draw and inject quickly, accuratly, and with minimal pain. T
 In practice this means that if you want to inject 0.1ml you'll need to use an insulin syringe. As these have short needles you'll need to perform a subcutaneous injection, and the oil must be thin enough to draw through the fine gauge needle. Conversely, if you want to an intramuscular injection you can't use the short needle on an insulin syringe, so you must use at least a 1ml+ Luer-Lok (or Slip) syringe and can't accurately inject a very small amount. If you want to inject a very thick oil you'll need to use a larger gauge needle, again the 1ml+ Luer-Lok syringe. Given these constraints there are some types of injections that are not practical.
  
 
-Don't use too large a drawing needle as it can damage the cap of the estrogen vial (if you're using one rather than a [glass ampule](https://en.wikipedia.org/wiki/Ampoule(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/.md), leading to rubber fragments in the vial and/or leakage. This is referred to as coring, [see below]TransWiki/hrt/injections#wiki_coring.
+Don't use too large a drawing needle as it can damage the cap of the estrogen vial (if you're using one rather than a [glass ampule](https://en.wikipedia.org/wiki/Ampoule)), leading to rubber fragments in the vial and/or leakage. This is referred to as coring, [see below](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/injections#wiki_coring.md).
 
 Wipe the septum (stopper) of a vial clean with a 70% alcohol pad to stealize it before use, both on the first and subsequent uses (or not as there's reccomendations that its not neccessary).
 
@@ -211,7 +211,7 @@ Its difficult to find needles smaller than 30G, although they are available up t
 
 Some doctors suggest/prescibe 18G needles. Try to avoid them, they are very large diameter, tend to hurt, core vial stoppers, and are unnecessary for HRT. Larger than 18G, eg 16G start to go up in price and no one uses them for HRT, I hope.
 
-Ideally the smallest (volume(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ syringe possible should be used. Smaller syringes are more accurate and generate higher injection pressure, making it easier to perform the injection (drawing pressure is about the same.md). Luer slip/lok syringes range from 1ml upwards, while insulin syringes are from 0.3ml to 1.0ml. See [Dose Accuracy]TransWiki/hrt/injections#wiki_dose_accuracy and [Syringe Pressure]TransWiki/hrt/injections#wiki_syringe_pressure below.
+Ideally the smallest (volume) syringe possible should be used. Smaller syringes are more accurate and generate higher injection pressure, making it easier to perform the injection (drawing pressure is about the same). Luer slip/lok syringes range from 1ml upwards, while insulin syringes are from 0.3ml to 1.0ml. See [Dose Accuracy](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/injections#wiki_dose_accuracy) and [Syringe Pressure](w/TransWiki/hrt/injections#wiki_syringe_pressure.md) below.
 
 Do you blood tests immediately before your next injection
 
@@ -914,7 +914,7 @@ Charity
 
 * https://transneedles.org - *"We are a non-profit mail-based service providing free HRT needle supplies for trans folk who cannot access or afford their own."*
 
-From the r/transDIY wiki entry [Buying needles and syringes online](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransDIY/index#wiki_buying_needles_and_syringes_online.md) (so prescription should not be required
+From the r/transDIY wiki entry [Buying needles and syringes online](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransDIY/index#wiki_buying_needles_and_syringes_online) (so prescription should not be required.md)
 
 * https://westendmedicalsupplies.com/
 * https://www.medlabgear.com/

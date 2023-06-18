@@ -142,7 +142,7 @@ Implant Cost
 * 100mg are ~~$95~~ $100each, postage ~~$12.50~~ $19 express with insurance (ie $219 for 200mg). They take about 3 days, 2 of which are testing. There's a form on their website you fill in to place the order (with a scan of prescription), post the original prescption to them, then they call you to confirm.
 * There are no larger implants. If you get 150mg or 200mg it's comprised of multiple smaller implants.
 
-CCS can make both 3mm and 4.5mm (ie 5mm(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ implants. The reason for either size are discussed in [Implant Technology].md)TransWiki/hrt/implants#wiki_implant_technology. As of 2020 their manufacturing process has not changed in years.
+CCS can make both 3mm and 4.5mm (ie 5mm) implants. The reason for either size are discussed in [Implant Technology](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransWiki/hrt/implants#wiki_implant_technology.md). As of 2020 their manufacturing process has not changed in years.
 
 
 **Estrogen Injections**

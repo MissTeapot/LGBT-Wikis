@@ -49,4 +49,4 @@ We prefer that titles be in the form of a question, but if this is not possible,
 
 * **Beware of triggers.**  We want everyone here to feel safe and welcome. Take a little time to understand where we're coming from and help us make this a supportive environment.
 
-[Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index.md) | [Rules]asktransgender/rules | [FAQ]asktransgender/faq | [Glossary]asktransgender/glossary | [Links]asktransgender/linked | [Contribute]asktransgender/contribute | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender
+[Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index) | [Rules](w/asktransgender/rules) | [FAQ](w/asktransgender/faq) | [Glossary](w/asktransgender/glossary) | [Links](w/asktransgender/linked) | [Contribute](w/asktransgender/contribute) | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender.md)

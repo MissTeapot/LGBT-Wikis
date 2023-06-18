@@ -836,7 +836,7 @@ Surgeons sites
 * https://www.vitals.com/doctors/Dr_Moises_Salama.html
 * https://www.ratemds.com/doctor-ratings/2999549/Dr-MOISES-SALAMA-AVENTURA-FL.html
 
-According to [this pdf](https://appsmqa.doh.state.fl.us/MQASearchServices/HealthCareProviders/PractitionerProfilePrintFriendly?LicInd=101035&amp;ProCde=1501(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ Salama does not carry malpractice insurance (for license expiring 01/31/2019.md). See the [wiki introduction]TransSurgeriesWiki/index#wiki_malpractice_insurance_in_the_usa for what this might mean.
+According to [this pdf](https://appsmqa.doh.state.fl.us/MQASearchServices/HealthCareProviders/PractitionerProfilePrintFriendly?LicInd=101035&amp;ProCde=1501) Salama does not carry malpractice insurance (for license expiring 01/31/2019). See the [wiki introduction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/TransSurgeriesWiki/index#wiki_malpractice_insurance_in_the_usa.md) for what this might mean.
 
 reddit
 
