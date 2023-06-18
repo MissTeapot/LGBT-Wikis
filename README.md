@@ -1,6 +1,6 @@
 # LGBT-Wikis!
 
-These are all subreddit wiki's for LGBT+ subreddits listed below. They have had all of their internal links replaced with links pointing to this repository. That means that all this knowledge won't be lost if these subreddits decide to close indefinitely. It also has the advantage over archiving in that these files are completely changeable (i.e. they can be kept up-to-date)! Please do with these files what you want. I just what the information to be out there and help people.
+These are all subreddit wiki's for LGBT+ subreddits listed below. They have had all of their internal links replaced with links pointing to this repository. That means that all this knowledge won't be lost if these subreddits decide to close indefinitely due to the API changes. It also has the advantage over archiving in that these files are completely changeable (i.e. they can be kept up-to-date)! Please do with these files what you want. I just what the information to be out there and help people.
 
 * [r/asexuality](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/index.md)
 * [r/asktransgender](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index.md)
