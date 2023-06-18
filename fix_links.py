@@ -64,7 +64,7 @@ def fix_line(line: str) -> str:
     Fortunately 99 % of all internal links are like this
     """
     line_to_write = line
-    matches = re.findall(r"\(w\/.*\)", line)
+    matches = re.findall(r"\(w\/.*?\)", line)
     for match in matches:
         replacement = "(https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/" + match.removeprefix("(w/").removesuffix(")").lower() + ".md)"
         line_to_write = line_to_write.replace(match, replacement)

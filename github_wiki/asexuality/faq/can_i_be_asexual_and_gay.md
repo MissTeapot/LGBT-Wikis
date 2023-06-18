@@ -9,7 +9,7 @@ There are two main reasons why an asexual may consider themselves gay / lesbian.
 The first is that while they may not experience sexual attraction, they may still feel some other form of attraction. Examples include:
 
 * [romantic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_romantic_attraction.md) – an urge to engage in romance with someone
-* [sensual attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sensual_and_aesthetic_attraction) – an urge to be physically intimate (e.g. cuddling.md)
+* [sensual attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sensual_and_aesthetic_attraction.md) – an urge to be physically intimate (e.g. cuddling)
 * [aesthetic attraction](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asexuality/the_spectra#wiki_sensual_and_aesthetic_attraction.md) – a non-sexual attraction to someone based on their appearance.
 
 None of these things is sexual attraction, and although asexuals may be less likely to experience them, *the only thing that defines a person as asexual or not is the absence or presence of sexual attraction*. An asexual who has these forms of attraction only towards their own gender may feel that their experience has many similarities to those of allosexual gay / lesbian people, meaning that those labels can communicate a lot – especially considering how asexuality is little known among the general public.

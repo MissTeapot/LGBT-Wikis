@@ -1,4 +1,4 @@
-[**Rules**](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/rules) | [index](w/asktransgender/index.md)
+[**Rules**](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/rules.md) | [Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index.md)
 
 # What are Gendered Slurs?#
 
@@ -26,4 +26,4 @@ Slurs that are, or have been, commonly or notably used to refer to members of a 
 
 * As long as they aren't gendered, or being used to personally attack someone else, then they're fine.  **Some examples:** *fuck, shit, piss, asshole, damnit, etc.*
 
-[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/genderedslurs) | [index](w/asktransgender/index) | [rules](w/asktransgender/rules) | [faq](w/asktransgender/faq) | [glossary](w/asktransgender/glossary) | [links](w/asktransgender/linked) | [contribute](w/asktransgender/contribute) | [moderators](http://www.reddit.com/message/compose?to=%2fr%2fasktransgender.md)
+[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/genderedslurs.md) | [Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index.md) | [Rules](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/rules.md) | [FAQ](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/faq.md) | [Glossary](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/glossary.md) | [Links](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/linked.md) | [Contribute](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/contribute.md) | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender)

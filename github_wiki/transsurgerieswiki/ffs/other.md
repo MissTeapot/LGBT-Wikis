@@ -686,7 +686,7 @@ Papers
 Huge amount of info on surgery in Korea on purseforum
 
 * [Asian Plastic Surgery &amp; Cosmetic Procedures](https://forum.purseblog.com/forums/asian-plastic-surgery-cosmetic-procedures.277/)
-* [Korean Plastic Surgery Clinics to Avoid (https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ evidence)](https://forum.purseblog.com/threads/korean-plastic-surgery-clinics-to-avoid-w-evidence.1025176/.md) in 2020
+* [Korean Plastic Surgery Clinics to Avoid (https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/ evidence.md)](https://forum.purseblog.com/threads/korean-plastic-surgery-clinics-to-avoid-w-evidence.1025176/) in 2020
 * [Reasons why a former interpreter at a Korean plastic surgery hospital don't do plastic surgery](https://forum.purseblog.com/threads/reasons-why-a-former-interpreter-at-a-korean-plastic-surgery-hospital-dont-do-plastic-surgery.1019354/) in 2019
 * [Blacklist of the Korean plastic surgery](https://forum.purseblog.com/threads/blacklist-of-the-korean-plastic-surgery.989495/) in 2018
 

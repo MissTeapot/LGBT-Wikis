@@ -1,4 +1,4 @@
-[**Rules**](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/rules) | [index](w/asktransgender/index.md)
+[**Rules**](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/rules.md) | [Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index.md)
 
 # What is Invalidation?
 Invalidation is to reject, ignore, mock, tease, judge, or diminish someone's feelings. It is an attempt to control how they feel and for how long they feel it.
@@ -111,4 +111,4 @@ Invalidation is to reject, ignore, mock, tease, judge, or diminish someone's fee
  * *Maybe it is because...*
  * *Of course, because you.... (This one hurts four ways. First, the "of course" minimizes what you feel, second the "because" explains what you feel, as if explaining it nullifies the feeling, third the "you" blames you and fourth, blaming you is a form of attack which is likely to make you feel either defensive or guilt-tripped or both.)*
 
-[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/invalidation) | [index](w/asktransgender/index) | [rules](w/asktransgender/rules) | [faq](w/asktransgender/faq) | [glossary](w/asktransgender/glossary) | [links](w/asktransgender/linked) | [contribute](w/asktransgender/contribute) | [moderators](http://www.reddit.com/message/compose?to=%2fr%2fasktransgender.md)
+[Top](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/invalidation.md) | [Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index.md) | [Rules](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/rules.md) | [FAQ](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/faq.md) | [Glossary](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/glossary.md) | [Links](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/linked.md) | [Contribute](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/contribute.md) | [Moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fasktransgender)

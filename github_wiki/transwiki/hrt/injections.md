@@ -211,7 +211,7 @@ Its difficult to find needles smaller than 30G, although they are available up t
 
 Some doctors suggest/prescibe 18G needles. Try to avoid them, they are very large diameter, tend to hurt, core vial stoppers, and are unnecessary for HRT. Larger than 18G, eg 16G start to go up in price and no one uses them for HRT, I hope.
 
-Ideally the smallest (volume) syringe possible should be used. Smaller syringes are more accurate and generate higher injection pressure, making it easier to perform the injection (drawing pressure is about the same). Luer slip/lok syringes range from 1ml upwards, while insulin syringes are from 0.3ml to 1.0ml. See [Dose Accuracy](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/injections#wiki_dose_accuracy) and [syringe pressure](w/transwiki/hrt/injections#wiki_syringe_pressure.md) below.
+Ideally the smallest (volume) syringe possible should be used. Smaller syringes are more accurate and generate higher injection pressure, making it easier to perform the injection (drawing pressure is about the same). Luer slip/lok syringes range from 1ml upwards, while insulin syringes are from 0.3ml to 1.0ml. See [Dose Accuracy](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/injections#wiki_dose_accuracy.md) and [Syringe Pressure](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/injections#wiki_syringe_pressure.md) below.
 
 Do you blood tests immediately before your next injection
 
@@ -914,7 +914,7 @@ Charity
 
 * https://transneedles.org - *"We are a non-profit mail-based service providing free HRT needle supplies for trans folk who cannot access or afford their own."*
 
-From the r/transDIY wiki entry [Buying needles and syringes online](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transdiy/index#wiki_buying_needles_and_syringes_online) (so prescription should not be required.md)
+From the r/transDIY wiki entry [Buying needles and syringes online](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transdiy/index#wiki_buying_needles_and_syringes_online.md) (so prescription should not be required)
 
 * https://westendmedicalsupplies.com/
 * https://www.medlabgear.com/

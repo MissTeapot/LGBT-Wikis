@@ -243,7 +243,7 @@ reddit
 *****
 # Testosterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/jon-hayes) has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher.md). These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
+Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/jon-hayes.md) has prescribed post-op women with low testosterone 50mg testosterone implants (the amount used in men is far higher). These implants are placed on top of the estrogen implants as they are more likely to extrude and you don't want them pushing the estrogen implants out.
 
 Note that testosterone implants don't last as long as estrogen, so there's likely to be a shortfall in levels before the estrogen implant needs renewing.
 
@@ -273,7 +273,7 @@ Very bad experience using testopel - https://k-con.today/post/172598026877/whats
 *****
 # Progesterone Implants
 
-Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/jon-hayes) has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point.md).
+Australian endocrinologist [Dr Jonathan Hayes](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/transwiki/hrt/jon-hayes.md) has prescribed progesterone implants, but they are prone to extrusion (about 10% at one point).
 
 reddit
 
