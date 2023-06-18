@@ -1,4 +1,4 @@
-[back to Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/(/w/asktransgender/index.md)
+[back to Index](https://github.com/MissTeapot/LGBT-Wikis/blob/main/github_wiki/asktransgender/index.md)
 
 # Rules
 

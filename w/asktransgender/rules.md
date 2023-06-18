@@ -1,4 +1,4 @@
-[back to Index](/w/asktransgender/index)
+[back to Index](w/asktransgender/index)
 
 # Rules
 
